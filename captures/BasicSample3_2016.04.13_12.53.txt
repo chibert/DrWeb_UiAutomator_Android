@@ -1,0 +1,182 @@
+Applications Memory Usage (kB):
+Uptime: 27467318 Realtime: 178664973
+
+Total PSS by process:
+    29741 kB: com.yandex.launcher (pid 879 / activities)
+    27983 kB: system (pid 570)
+    23816 kB: com.google.android.talk (pid 19103)
+    12262 kB: com.google.android.gms.persistent (pid 850)
+    11977 kB: com.android.systemui (pid 638)
+     9610 kB: com.facebook.katana (pid 18754)
+     8115 kB: com.android.phone (pid 651)
+     7332 kB: com.touchtype.swiftkey (pid 837)
+     6445 kB: com.android.settings (pid 18101 / activities)
+     6158 kB: ru.yandex.disk:Metrica (pid 19010)
+     6135 kB: com.google.android.gms (pid 18395)
+     4961 kB: com.yandex.launcher:Metrica (pid 18033)
+     3883 kB: com.facebook.katana:dash (pid 18711)
+     3863 kB: ru.yandex.disk:aviary_cds (pid 18992)
+     3500 kB: com.android.vending (pid 18447)
+     3488 kB: com.jrdcom.weather (pid 1233)
+     3314 kB: com.google.process.gapps (pid 30718)
+     2996 kB: com.estrongs.android.pop (pid 7413 / activities)
+     2930 kB: com.android.deskclock (pid 19134)
+     2185 kB: com.google.android.apps.plus (pid 18327)
+     2100 kB: android.process.media (pid 17632)
+     1356 kB: zygote (pid 171)
+     1259 kB: com.android.chrome (pid 18976)
+      986 kB: com.yandex.browser.beta (pid 18622)
+      974 kB: com.yandex.browser (pid 18531)
+      960 kB: surfaceflinger (pid 170)
+      752 kB: com.yandex.browser.beta:Metrica (pid 18647)
+      665 kB: com.google.android.apps.docs (pid 18795)
+      439 kB: com.android.documentsui (pid 18769)
+      423 kB: com.android.dialer (pid 17231 / activities)
+      405 kB: com.android.externalstorage (pid 18782)
+      364 kB: logcat (pid 19092)
+      339 kB: dumpsys (pid 19155)
+      320 kB: android.process.acore (pid 16140)
+      277 kB: netd (pid 168)
+      240 kB: adbd (pid 229)
+      199 kB: com.android.incallui (pid 807)
+      198 kB: rild_sp (pid 214)
+      196 kB: com.tcl.live (pid 32209)
+      195 kB: ru.yandex.disk (pid 1164 / activities)
+      195 kB: wpa_supplicant (pid 637)
+      171 kB: com.android.inputmethod.latin (pid 16418)
+      165 kB: phoneserver (pid 212)
+      153 kB: mediaserver (pid 173)
+      150 kB: rild_sp (pid 217)
+      136 kB: healthd (pid 161)
+      125 kB: /init (pid 1)
+       92 kB: ueventd (pid 140)
+       72 kB: vold (pid 163)
+       68 kB: com.tcl.live:miniapp (pid 32185)
+       61 kB: com.google.process.location (pid 865)
+       56 kB: batterysrv (pid 167)
+       54 kB: wcnd (pid 166)
+       53 kB: servicemanager (pid 162)
+       37 kB: sdcard (pid 720)
+       21 kB: libestool2.so (pid 1813)
+        6 kB: drmserver (pid 172)
+        5 kB: keystore (pid 175)
+        3 kB: dhcpcd (pid 13123)
+        2 kB: installd (pid 174)
+        1 kB: modemd (pid 165)
+        1 kB: debuggerd (pid 169)
+        1 kB: fotabinder (pid 176)
+        1 kB: refnotify (pid 225)
+        1 kB: nvitemd (pid 226)
+        1 kB: uninstall_monitor (pid 1676)
+        1 kB: uninstall_monitor (pid 18585)
+        1 kB: uninstall_monitor (pid 18682)
+
+Total PSS by OOM adjustment:
+     5067 kB: Native
+                1356 kB: zygote (pid 171)
+                 960 kB: surfaceflinger (pid 170)
+                 364 kB: logcat (pid 19092)
+                 339 kB: dumpsys (pid 19155)
+                 277 kB: netd (pid 168)
+                 240 kB: adbd (pid 229)
+                 198 kB: rild_sp (pid 214)
+                 195 kB: wpa_supplicant (pid 637)
+                 165 kB: phoneserver (pid 212)
+                 153 kB: mediaserver (pid 173)
+                 150 kB: rild_sp (pid 217)
+                 136 kB: healthd (pid 161)
+                 125 kB: /init (pid 1)
+                  92 kB: ueventd (pid 140)
+                  72 kB: vold (pid 163)
+                  56 kB: batterysrv (pid 167)
+                  54 kB: wcnd (pid 166)
+                  53 kB: servicemanager (pid 162)
+                  37 kB: sdcard (pid 720)
+                  21 kB: libestool2.so (pid 1813)
+                   6 kB: drmserver (pid 172)
+                   5 kB: keystore (pid 175)
+                   3 kB: dhcpcd (pid 13123)
+                   2 kB: installd (pid 174)
+                   1 kB: modemd (pid 165)
+                   1 kB: debuggerd (pid 169)
+                   1 kB: fotabinder (pid 176)
+                   1 kB: refnotify (pid 225)
+                   1 kB: nvitemd (pid 226)
+                   1 kB: uninstall_monitor (pid 1676)
+                   1 kB: uninstall_monitor (pid 18585)
+                   1 kB: uninstall_monitor (pid 18682)
+    27983 kB: System
+               27983 kB: system (pid 570)
+    20291 kB: Persistent
+               11977 kB: com.android.systemui (pid 638)
+                8115 kB: com.android.phone (pid 651)
+                 199 kB: com.android.incallui (pid 807)
+    29741 kB: Foreground
+               29741 kB: com.yandex.launcher (pid 879 / activities)
+    17284 kB: Visible
+               12262 kB: com.google.android.gms.persistent (pid 850)
+                4961 kB: com.yandex.launcher:Metrica (pid 18033)
+                  61 kB: com.google.process.location (pid 865)
+     7332 kB: Perceptible
+                7332 kB: com.touchtype.swiftkey (pid 837)
+     2100 kB: A Services
+                2100 kB: android.process.media (pid 17632)
+     6445 kB: Previous
+                6445 kB: com.android.settings (pid 18101 / activities)
+     7752 kB: B Services
+                3488 kB: com.jrdcom.weather (pid 1233)
+                3314 kB: com.google.process.gapps (pid 30718)
+                 320 kB: android.process.acore (pid 16140)
+                 196 kB: com.tcl.live (pid 32209)
+                 195 kB: ru.yandex.disk (pid 1164 / activities)
+                 171 kB: com.android.inputmethod.latin (pid 16418)
+                  68 kB: com.tcl.live:miniapp (pid 32185)
+    70979 kB: Cached
+               23816 kB: com.google.android.talk (pid 19103)
+                9610 kB: com.facebook.katana (pid 18754)
+                6158 kB: ru.yandex.disk:Metrica (pid 19010)
+                6135 kB: com.google.android.gms (pid 18395)
+                3883 kB: com.facebook.katana:dash (pid 18711)
+                3863 kB: ru.yandex.disk:aviary_cds (pid 18992)
+                3500 kB: com.android.vending (pid 18447)
+                2996 kB: com.estrongs.android.pop (pid 7413 / activities)
+                2930 kB: com.android.deskclock (pid 19134)
+                2185 kB: com.google.android.apps.plus (pid 18327)
+                1259 kB: com.android.chrome (pid 18976)
+                 986 kB: com.yandex.browser.beta (pid 18622)
+                 974 kB: com.yandex.browser (pid 18531)
+                 752 kB: com.yandex.browser.beta:Metrica (pid 18647)
+                 665 kB: com.google.android.apps.docs (pid 18795)
+                 439 kB: com.android.documentsui (pid 18769)
+                 423 kB: com.android.dialer (pid 17231 / activities)
+                 405 kB: com.android.externalstorage (pid 18782)
+
+Total PSS by category:
+    64087 kB: Dalvik
+    36572 kB: Unknown
+    36394 kB: Dalvik Other
+    22662 kB: .dex mmap
+    19328 kB: .so mmap
+    10265 kB: .apk mmap
+     1968 kB: Stack
+     1372 kB: Native
+     1197 kB: Other mmap
+      836 kB: Ashmem
+      277 kB: Other dev
+       12 kB: .jar mmap
+        4 kB: .ttf mmap
+        0 kB: Cursor
+        0 kB: code mmap
+        0 kB: image mmap
+        0 kB: Graphics
+        0 kB: GL
+        0 kB: Memtrack
+
+Total RAM: 464028 kB
+ Free RAM: 141467 kB (70979 cached pss + 64516 cached + 5972 free)
+ Used RAM: 151323 kB (123995 used pss + 1268 buffers + 48 shmem + 26012 slab)
+ Lost RAM: 171238 kB
+     ZRAM: 124268 kB physical used for 287820 kB in swap (307196 kB total swap)
+      KSM: 15048 kB saved from shared 1444 kB
+           28968 kB unshared; 276524 kB volatile
+   Tuning: 48 (large 128), oom 43008 kB, restore limit 14336 kB (low-ram)

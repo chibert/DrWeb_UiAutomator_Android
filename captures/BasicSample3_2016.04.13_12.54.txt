@@ -1,0 +1,948 @@
+ACTIVITY MANAGER PENDING INTENTS (dumpsys activity intents)
+  * PendingIntentRecord{428b2be0 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{42699778 android broadcastIntent}
+  * PendingIntentRecord{428d7748 com.facebook.katana broadcastIntent}
+  * PendingIntentRecord{4274d660 com.estrongs.android.pop broadcastIntent}
+  * PendingIntentRecord{4251bb18 com.google.android.gms startService}
+  * PendingIntentRecord{424bbeb8 android broadcastIntent}
+  * PendingIntentRecord{42835378 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{427de8a8 com.google.android.gm startActivity}
+  * PendingIntentRecord{4259fbd8 com.tcl.live startActivity}
+  * PendingIntentRecord{42993a50 com.google.android.gms startService}
+  * PendingIntentRecord{4277b920 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{428ff790 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{426b1228 com.google.android.gms startService}
+  * PendingIntentRecord{428c8368 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{425a4540 com.yandex.browser broadcastIntent}
+  * PendingIntentRecord{427da258 com.yandex.browser.beta broadcastIntent}
+  * PendingIntentRecord{42784690 com.tcl.live startActivity}
+  * PendingIntentRecord{42b795a0 com.tcl.live startActivity}
+  * PendingIntentRecord{428d4220 com.google.android.gm startService}
+  * PendingIntentRecord{427de2a8 com.android.calendar broadcastIntent}
+  * PendingIntentRecord{428c9088 com.google.android.gm startActivity}
+  * PendingIntentRecord{4279ad90 com.jrdcom.weather startActivity}
+  * PendingIntentRecord{4279c7f8 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{42886770 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{428b5cf0 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{4278e3a0 com.whatsapp startActivity}
+  * PendingIntentRecord{42c77ef0 android startActivity}
+  * PendingIntentRecord{424f9448 android broadcastIntent}
+  * PendingIntentRecord{42683400 com.google.android.gm startService}
+  * PendingIntentRecord{4267d110 android broadcastIntent}
+  * PendingIntentRecord{424b13b0 android broadcastIntent}
+  * PendingIntentRecord{428a3518 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{425fba98 com.yandex.browser startActivity}
+  * PendingIntentRecord{42add3a0 com.google.android.apps.plus broadcastIntent}
+  * PendingIntentRecord{42888230 android broadcastIntent}
+  * PendingIntentRecord{4242a560 android broadcastIntent}
+  * PendingIntentRecord{426ec718 com.facebook.katana broadcastIntent}
+  * PendingIntentRecord{4277d958 com.android.inputmethod.latin broadcastIntent}
+  * PendingIntentRecord{4278f628 com.touchtype.swiftkey broadcastIntent}
+  * PendingIntentRecord{4255bc18 android broadcastIntent}
+  * PendingIntentRecord{42928468 com.google.android.gms startService}
+  * PendingIntentRecord{427e8220 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{4281d560 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{427c0018 com.yandex.browser.beta broadcastIntent}
+  * PendingIntentRecord{42869c80 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{4298c6b0 com.google.android.talk broadcastIntent}
+  * PendingIntentRecord{426dcfc0 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{425eda48 com.yandex.browser broadcastIntent}
+  * PendingIntentRecord{428ee590 com.android.deskclock broadcastIntent}
+  * PendingIntentRecord{4288b848 com.tcl.live startActivity}
+  * PendingIntentRecord{427f82c8 android broadcastIntent}
+  * PendingIntentRecord{429466f0 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{41febb70 com.google.android.gm startActivity}
+  * PendingIntentRecord{428aca58 com.google.android.gm startActivity}
+  * PendingIntentRecord{42881868 com.whatsapp broadcastIntent}
+  * PendingIntentRecord{42ddcbe0 com.android.vending broadcastIntent}
+  * PendingIntentRecord{42b8e1d8 com.tcl.live startActivity}
+  * PendingIntentRecord{425182d0 com.tcl.live startActivity}
+  * PendingIntentRecord{424b40d8 android broadcastIntent}
+  * PendingIntentRecord{427c9a20 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{4295ba50 com.google.android.gms startService}
+  * PendingIntentRecord{426eb780 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{42676630 ru.yandex.disk broadcastIntent}
+  * PendingIntentRecord{429d3930 com.android.vending startService}
+  * PendingIntentRecord{4274b638 com.whatsapp broadcastIntent}
+  * PendingIntentRecord{42767718 com.facebook.katana startService}
+  * PendingIntentRecord{41f3c1b0 com.tcl.live startActivity}
+  * PendingIntentRecord{427941a0 android startActivity}
+  * PendingIntentRecord{42a13c98 android broadcastIntent}
+  * PendingIntentRecord{42846148 com.facebook.katana broadcastIntent}
+  * PendingIntentRecord{42875780 android startActivity}
+  * PendingIntentRecord{426d25a0 android broadcastIntent}
+  * PendingIntentRecord{428aba10 com.estrongs.android.pop startActivity}
+  * PendingIntentRecord{4299f248 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{4288f888 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{427960c0 com.jrdcom.weather startActivity}
+  * PendingIntentRecord{427a3248 com.whatsapp broadcastIntent}
+  * PendingIntentRecord{428773a8 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{4280e2e8 com.estrongs.android.pop startActivity}
+  * PendingIntentRecord{42908b98 com.google.android.gm startService}
+  * PendingIntentRecord{427b80b8 com.yandex.browser.beta startActivity}
+  * PendingIntentRecord{42520e00 android startActivity}
+  * PendingIntentRecord{42652368 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{42604650 com.yandex.browser broadcastIntent}
+  * PendingIntentRecord{428cb218 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{42aece18 com.google.android.gms startService}
+  * PendingIntentRecord{426dac08 com.android.providers.calendar broadcastIntent}
+  * PendingIntentRecord{42700928 android broadcastIntent}
+  * PendingIntentRecord{426dc178 android broadcastIntent}
+  * PendingIntentRecord{429cf4a8 com.tcl.live startActivity}
+  * PendingIntentRecord{42943e10 com.tcl.live startActivity}
+  * PendingIntentRecord{42924fb0 com.google.android.gm startActivity}
+  * PendingIntentRecord{427fbb08 com.tcl.live startActivity}
+  * PendingIntentRecord{426338d0 com.tcl.live startService}
+  * PendingIntentRecord{427c2f78 com.yandex.launcher startActivity}
+  * PendingIntentRecord{4257ce80 android broadcastIntent}
+  * PendingIntentRecord{42924bc0 com.touchtype.swiftkey broadcastIntent}
+  * PendingIntentRecord{428dd1c8 com.google.android.gm startService}
+  * PendingIntentRecord{428c10b0 com.google.android.gms startService}
+  * PendingIntentRecord{4281df80 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{42730d08 android startActivity}
+  * PendingIntentRecord{427007c0 android broadcastIntent}
+  * PendingIntentRecord{427f7380 com.yandex.browser.beta broadcastIntent}
+  * PendingIntentRecord{42a57488 com.estrongs.android.pop startActivity}
+  * PendingIntentRecord{42928158 com.google.android.googlequicksearchbox startService}
+  * PendingIntentRecord{4279f2d8 com.jrdcom.weather broadcastIntent}
+  * PendingIntentRecord{427ec520 com.android.phone broadcastIntent}
+  * PendingIntentRecord{42679d98 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{4259db40 android broadcastIntent}
+  * PendingIntentRecord{42717238 android broadcastIntent}
+  * PendingIntentRecord{427ba298 com.tcl.live startActivity}
+  * PendingIntentRecord{428b4378 com.touchtype.swiftkey startService}
+  * PendingIntentRecord{424ea888 android broadcastIntent}
+  * PendingIntentRecord{42586fb8 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{428ed750 com.whatsapp startActivity}
+  * PendingIntentRecord{42908d40 com.facebook.katana broadcastIntent}
+  * PendingIntentRecord{4255e3a8 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{427fdbc8 android startActivity}
+  * PendingIntentRecord{42741f40 com.whatsapp broadcastIntent}
+  * PendingIntentRecord{429830e0 com.google.android.gm startActivity}
+  * PendingIntentRecord{426d9870 com.touchtype.swiftkey broadcastIntent}
+  * PendingIntentRecord{424f54a8 com.yandex.browser broadcastIntent}
+  * PendingIntentRecord{427fb6d8 com.google.android.gm startService}
+  * PendingIntentRecord{427f6898 com.yandex.browser.beta broadcastIntent}
+  * PendingIntentRecord{42cd3070 com.android.vending broadcastIntent}
+  * PendingIntentRecord{4288ea00 com.google.android.gms broadcastIntent}
+  * PendingIntentRecord{427805c8 com.touchtype.swiftkey broadcastIntent}
+  * PendingIntentRecord{427040a8 com.google.android.gms startService}
+  * PendingIntentRecord{427e0430 com.estrongs.android.pop startActivity}
+  * PendingIntentRecord{42884fb8 android broadcastIntent}
+  * PendingIntentRecord{427eece0 com.facebook.katana startService}
+  * PendingIntentRecord{425bde28 com.android.phone broadcastIntent}
+  * PendingIntentRecord{42adab10 com.google.android.apps.plus broadcastIntent}
+
+ACTIVITY MANAGER BROADCAST STATE (dumpsys activity broadcasts)
+  Historical broadcasts [foreground]:
+  #0: BroadcastRecord{41f68318 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000014 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+
+  Historical broadcasts [background]:
+  #0: BroadcastRecord{427dab30 u0 android.content.syncmanager.SYNC_ALARM}
+    act=android.content.syncmanager.SYNC_ALARM flg=0x14 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+
+  Sticky broadcasts for user -1:
+  * Sticky action android.intent.action.SERVICE_STATE
+  * Sticky action android.net.wifi.WIFI_STATE_CHANGED
+  * Sticky action android.net.conn.TETHER_STATE_CHANGED
+  * Sticky action android.media.ACTION_SCO_AUDIO_STATE_UPDATED
+  * Sticky action android.intent.action.SIM_CARD_PRESENT
+  * Sticky action android.intent.action.BATTERY_CHANGED
+  * Sticky action android.intent.action.SIG_STR0
+  * Sticky action android.intent.action.SIG_STR1
+  * Sticky action android.provider.Telephony.SPN_STRINGS_UPDATED0
+  * Sticky action android.provider.Telephony.SPN_STRINGS_UPDATED1
+  * Sticky action android.net.conn.CONNECTIVITY_CHANGE
+  * Sticky action android.intent.action.ANY_DATA_STATE
+  * Sticky action android.intent.action.SERVICE_STATE0
+  * Sticky action android.intent.action.SERVICE_STATE1
+  * Sticky action android.provider.Telephony.SPN_STRINGS_UPDATED
+  * Sticky action android.net.nsd.STATE_CHANGED
+  * Sticky action android.hardware.usb.action.USB_STATE
+  * Sticky action android.net.wifi.RSSI_CHANGED
+  * Sticky action android.net.wifi.STATE_CHANGE
+  * Sticky action android.intent.action.SIM_STATE_CHANGED
+  * Sticky action android.intent.action.SIG_STR
+  * Sticky action android.net.wifi.supplicant.STATE_CHANGE
+  * Sticky action android.net.conn.INET_CONDITION_ACTION
+  * Sticky action android.net.conn.CONNECTIVITY_CHANGE_IMMEDIATE
+  * Sticky action android.media.SCO_AUDIO_STATE_CHANGED
+  * Sticky action android.os.UpdateLock.UPDATE_LOCK_CHANGED
+  * Sticky action android.intent.action.SIM_READY_LOAD_ICCID0
+  * Sticky action android.intent.action.SIM_READY_LOAD_ICCID1
+  * Sticky action android.media.MASTER_MUTE_CHANGED_ACTION
+  * Sticky action wifi_scan_available
+  * Sticky action android.intent.action.SIM_STATE_CHANGED0
+  * Sticky action android.intent.action.SIM_STATE_CHANGED1
+  * Sticky action android.intent.action.HDMI_PLUGGED
+  * Sticky action android.media.RINGER_MODE_CHANGED
+
+  Sticky broadcasts for user 0:
+  * Sticky action android.intent.action.ACTION_IS_SIM_SMS_READY0
+  * Sticky action android.intent.action.ACTION_IS_SIM_SMS_READY1
+  * Sticky action com.yandex.launcher.com.pushwoosh.REGISTER_BROAD_CAST_ACTION
+  * Sticky action com.yandex.launcher.SYSTEM_READY
+
+ACTIVITY MANAGER CONTENT PROVIDERS (dumpsys activity providers)
+  Published single-user content providers (by class):
+  * ContentProviderRecord{423c4b78 u0 com.android.phone/com.sprd.phone.callsetting.FastDialNumberProvider}
+    proc=ProcessRecord{426e9b08 651:com.android.phone/1001}
+    singleton=true
+    authority=com.android.phone
+  * ContentProviderRecord{423b8cf8 u0 com.android.phone/.IccProvider}
+    proc=ProcessRecord{426e9b08 651:com.android.phone/1001}
+    singleton=true
+    authority=icc
+  * ContentProviderRecord{421dd1d0 u0 com.android.providers.settings/.SettingsProvider}
+    proc=ProcessRecord{423a7bb0 570:system/1000}
+    singleton=true
+    authority=settings
+    23 connections, 0 external handles
+      -> 638:com.android.systemui/u0a35 s1/1 u0/0 +2d1h37m43s707ms
+      -> 651:com.android.phone/1001 s1/1 u0/0 +2d1h37m43s327ms
+      -> 879:com.yandex.launcher/u0a159 s1/1 u0/0 +2d1h37m39s878ms
+      -> 837:com.touchtype.swiftkey/u0a70 s1/1 u0/0 +2d1h37m39s840ms
+      -> 850:com.google.android.gms.persistent/u0a27 s1/1 u0/0 +2d1h37m38s905ms
+      -> 1233:com.jrdcom.weather/u0a69 s1/1 u0/0 +2d1h37m34s795ms
+      -> 1164:ru.yandex.disk/u0a85 s1/1 u0/0 +2d1h37m26s450ms
+      -> 7413:com.estrongs.android.pop/u0a131 s1/1 u0/0 +1d23h39m16s695ms
+      -> 30718:com.google.process.gapps/u0a27 s1/1 u0/0 +23h31m54s790ms
+      -> 17231:com.android.dialer/u0a12 s1/1 u0/0 +2h6m55s891ms
+      -> 807:com.android.incallui/u0a12 s1/1 u0/0 +2h6m47s651ms
+      -> 18033:com.yandex.launcher:Metrica/u0a159 s1/1 u0/0 +11m7s838ms
+      -> 18101:com.android.settings/1000 s1/1 u0/0 +11m1s555ms
+      -> 18327:com.google.android.apps.plus/u0a60 s1/1 u0/0 +10m41s755ms
+      -> 18447:com.android.vending/u0a50 s1/1 u0/0 +10m34s495ms
+      -> 18531:com.yandex.browser/u0a118 s1/1 u0/0 +10m23s982ms
+      -> 18622:com.yandex.browser.beta/u0a105 s1/1 u0/0 +10m22s472ms
+      -> 18647:com.yandex.browser.beta:Metrica/u0a105 s1/1 u0/0 +10m21s926ms
+      -> 18711:com.facebook.katana:dash/u0a77 s1/1 u0/0 +10m21s196ms
+      -> 18754:com.facebook.katana/u0a77 s1/1 u0/0 +10m18s536ms
+      -> 18992:ru.yandex.disk:aviary_cds/u0a85 s1/1 u0/0 +2m49s292ms
+      -> 19010:ru.yandex.disk:Metrica/u0a85 s1/1 u0/0 +2m49s74ms
+      -> 19103:com.google.android.talk/u0a67 s1/1 u0/0 +2m13s953ms
+
+  Published user 0 content providers (by class):
+  * ContentProviderRecord{42857cf0 u0 com.facebook.katana/.generated_content_providers.com.facebook.abtest.qe.db.QuickExperimentContentProvider}
+    proc=ProcessRecord{42a516f8 18754:com.facebook.katana/u0a77}
+    authority=com.facebook.katana.experiments
+  * ContentProviderRecord{42863b18 u0 com.facebook.katana/.generated_content_providers.com.facebook.nodex.startup.warmup.NodexWarmupContentProvider}
+    proc=ProcessRecord{42a516f8 18754:com.facebook.katana/u0a77}
+    authority=com.facebook.katana.nodex.startup.warmup
+  * ContentProviderRecord{428ab300 u0 com.android.settings/com.sprd.settings.timerpower.AlarmProvider}
+    proc=ProcessRecord{429ed580 18101:com.android.settings/1000}
+    authority=com.android.settings
+  * ContentProviderRecord{42711eb0 u0 com.google.android.gms/com.google.android.location.reporting.service.ReportingContentProvider}
+    proc=ProcessRecord{428905e0 850:com.google.android.gms.persistent/u0a27}
+    authority=com.google.android.location.reporting
+  * ContentProviderRecord{42906260 u0 com.jrdcom.weather/com.jrdcom.provider.WeatherContentProvider}
+    proc=ProcessRecord{427a9530 1233:com.jrdcom.weather/u0a69}
+    authority=com.jrdcom.provider.weatherinfo
+  * ContentProviderRecord{42711b90 u0 com.google.android.gms/com.google.android.location.internal.LocationContentProvider}
+    proc=ProcessRecord{428905e0 850:com.google.android.gms.persistent/u0a27}
+    authority=com.google.android.location.internal
+  * ContentProviderRecord{42856be8 u0 com.facebook.katana/.generated_content_providers.com.facebook.katana.webview.provider.ImageCacheContentProvider}
+    proc=ProcessRecord{42a516f8 18754:com.facebook.katana/u0a77}
+    authority=com.facebook.katana.webview.provider.imagecache
+  * ContentProviderRecord{4287fbc8 u0 com.facebook.katana/.generated_content_providers.com.facebook.database.properties.DbPropertiesContentProvider}
+    proc=ProcessRecord{42a516f8 18754:com.facebook.katana/u0a77}
+    authority=com.facebook.katana.properties
+  * ContentProviderRecord{42babff0 u0 com.google.android.apps.plus/.content.EsApiProvider}
+    proc=ProcessRecord{428869f0 18327:com.google.android.apps.plus/u0a60}
+    authority=com.google.android.apps.plus.content.ApiProvider
+  * ContentProviderRecord{4281bb58 u0 com.google.android.apps.docs/.sync.filemanager.FileProvider}
+    proc=ProcessRecord{41f6b1a0 18795:com.google.android.apps.docs/u0a38}
+    authority=com.google.android.apps.docs.files
+  * ContentProviderRecord{4287e458 u0 com.facebook.katana/.provider.AttributionIdProvider}
+    proc=ProcessRecord{42a516f8 18754:com.facebook.katana/u0a77}
+    authority=com.facebook.katana.provider.AttributionIdProvider
+  * ContentProviderRecord{428534e0 u0 com.facebook.katana/.generated_content_providers.com.facebook.katana.provider.ConnectionsProvider}
+    proc=ProcessRecord{42a516f8 18754:com.facebook.katana/u0a77}
+    authority=com.facebook.katana.provider.ConnectionsProvider
+  * ContentProviderRecord{42b4a2b0 u0 com.google.android.gms/.icing.proxy.InternalIcingCorporaProvider}
+    proc=ProcessRecord{428b6738 18395:com.google.android.gms/u0a27}
+    authority=com.google.android.gms.icing.proxy
+  * ContentProviderRecord{423ca0a8 u0 com.android.providers.telephony/.TelephonyProvider}
+    proc=ProcessRecord{426e9b08 651:com.android.phone/1001}
+    authority=telephony
+  * ContentProviderRecord{42b20030 u0 com.android.providers.downloads/.DownloadProvider}
+    proc=ProcessRecord{42b20210 17632:android.process.media/u0a13}
+    launchingApp=ProcessRecord{42b20210 17632:android.process.media/u0a13}
+    authority=downloads
+  * ContentProviderRecord{42593de0 u0 com.google.android.gsf/.settings.GoogleSettingsProvider}
+    proc=ProcessRecord{42afb6d8 30718:com.google.process.gapps/u0a27}
+    authority=com.google.settings
+  * ContentProviderRecord{428c5540 u0 com.android.providers.drm/.DrmProvider}
+    proc=ProcessRecord{42b20210 17632:android.process.media/u0a13}
+    authority=drm
+  * ContentProviderRecord{427fb840 u0 com.google.android.apps.docs/.doclist.DocListGlobalSearchSuggestionProvider}
+    proc=ProcessRecord{41f6b1a0 18795:com.google.android.apps.docs/u0a38}
+    authority=com.google.android.apps.docs.doclist.search_suggest
+  * ContentProviderRecord{427983c0 u0 ru.yandex.disk/com.yandex.disk.sync.PhotoSyncProvider}
+    proc=ProcessRecord{427cddf8 1164:ru.yandex.disk/u0a85}
+    authority=com.yandex.disk.sync.photo
+  * ContentProviderRecord{4290d200 u0 com.facebook.katana/com.facebook.dash.launchables_v1.model.LaunchablesProvider}
+    proc=ProcessRecord{42990390 18711:com.facebook.katana:dash/u0a77}
+    authority=com.facebook.katana.provider.LaunchablesProvider
+  * ContentProviderRecord{42c90a10 u0 com.google.android.gms/.auth.api.credentials.be.persistence.TemporaryValueProvider}
+    proc=ProcessRecord{428b6738 18395:com.google.android.gms/u0a27}
+    authority=com.google.android.gms.auth.api.credentials.be.persistence.TemporaryValueProvider
+  * ContentProviderRecord{428c9710 u0 ru.yandex.disk/com.yandex.disk.sync.OfflineSyncProvider}
+    proc=ProcessRecord{427cddf8 1164:ru.yandex.disk/u0a85}
+    authority=com.yandex.disk.sync
+  * ContentProviderRecord{42882358 u0 com.yandex.browser.beta/.BrowserProvider}
+    proc=ProcessRecord{428876d8 18622:com.yandex.browser.beta/u0a105}
+    authority=com.yandex.browser.beta;com.yandex.browser.beta.browser-contract
+  * ContentProviderRecord{428c55d8 u0 com.android.providers.downloads/.DownloadStorageProvider}
+    proc=ProcessRecord{42b20210 17632:android.process.media/u0a13}
+    authority=com.android.providers.downloads.documents
+  * ContentProviderRecord{4250a880 u0 com.yandex.launcher/com.android.launcher3.LauncherProvider}
+    proc=ProcessRecord{42680288 879:com.yandex.launcher/u0a159}
+    authority=com.yandex.launcher.settings
+  * ContentProviderRecord{4287e118 u0 com.facebook.katana/.generated_content_providers.com.facebook.katana.provider.UserValuesProvider}
+    proc=ProcessRecord{42a516f8 18754:com.facebook.katana/u0a77}
+    authority=com.facebook.katana.provider.UserValuesProvider
+  * ContentProviderRecord{42b4a318 u0 com.google.android.gms/com.google.android.libraries.social.autobackup.AutoBackupProvider}
+    proc=ProcessRecord{428b6738 18395:com.google.android.gms/u0a27}
+    authority=com.google.android.gms.photos.iu.EsGoogleIuProvider
+  * ContentProviderRecord{42ab5970 u0 com.android.providers.contacts/com.sprd.providers.geocode.GeocodeProvider}
+    proc=ProcessRecord{426768e8 16140:android.process.acore/u0a0}
+    authority=gecode_location
+  * ContentProviderRecord{42853300 u0 com.facebook.katana/.generated_content_providers.com.facebook.katana.provider.VaultImageProvider}
+    proc=ProcessRecord{42a516f8 18754:com.facebook.katana/u0a77}
+    authority=com.facebook.katana.provider.VaultImageProvider
+  * ContentProviderRecord{4283e528 u0 com.google.android.apps.docs/.doclist.DocListAccountSuggestionProvider}
+    proc=ProcessRecord{41f6b1a0 18795:com.google.android.apps.docs/u0a38}
+    authority=com.google.android.apps.docs.doclist.account_suggest
+  * ContentProviderRecord{428c9840 u0 ru.yandex.disk/.provider.DiskContentProvider}
+    proc=ProcessRecord{427cddf8 1164:ru.yandex.disk/u0a85}
+    authority=ru.yandex.disk.provider
+  * ContentProviderRecord{42c15870 u0 com.google.android.apps.plus/.content.AdsProvider}
+    proc=ProcessRecord{428869f0 18327:com.google.android.apps.plus/u0a60}
+    authority=com.google.plus.platform
+  * ContentProviderRecord{42b4a3b0 u0 com.google.android.gms/.common.download.provider.DownloadsProvider}
+    proc=ProcessRecord{428b6738 18395:com.google.android.gms/u0a27}
+    authority=com.google.android.gms.download
+  * ContentProviderRecord{42827a50 u0 com.google.android.apps.docs/.doclist.statesyncer.CrossAppStateProvider}
+    proc=ProcessRecord{41f6b1a0 18795:com.google.android.apps.docs/u0a38}
+    authority=com.google.android.apps.docs.statesyncer
+  * ContentProviderRecord{428794f8 u0 com.facebook.katana/.generated_content_providers.com.facebook.katana.provider.GraphQLNotificationsContentProvider}
+    proc=ProcessRecord{42a516f8 18754:com.facebook.katana/u0a77}
+    authority=com.facebook.katana.provider.GraphQLNotificationsProvider
+  * ContentProviderRecord{428c98d8 u0 ru.yandex.disk/.provider.CacheContentProvider}
+    proc=ProcessRecord{427cddf8 1164:ru.yandex.disk/u0a85}
+    authority=ru.yandex.disk.cache
+  * ContentProviderRecord{42852f20 u0 com.facebook.katana/.provider.PlatformProvider}
+    proc=ProcessRecord{42a516f8 18754:com.facebook.katana/u0a77}
+    authority=com.facebook.katana.provider.PlatformProvider
+  * ContentProviderRecord{4258f678 u0 com.google.android.gms/.auth.be.AccountContentProvider}
+    proc=ProcessRecord{42afb6d8 30718:com.google.process.gapps/u0a27}
+    authority=com.google.android.gms.auth.accounts
+  * ContentProviderRecord{42634378 u0 com.android.vending/com.google.android.finsky.providers.RecentSuggestionsProvider}
+    proc=ProcessRecord{4264a1a8 18447:com.android.vending/u0a50}
+    authority=com.google.android.finsky.RecentSuggestionsProvider
+  * ContentProviderRecord{423c88a0 u0 com.android.providers.telephony/.SmsProvider}
+    proc=ProcessRecord{426e9b08 651:com.android.phone/1001}
+    authority=sms
+  * ContentProviderRecord{4284d460 u0 com.facebook.katana/.generated_content_providers.com.facebook.katana.provider.CacheProvider}
+    proc=ProcessRecord{42a516f8 18754:com.facebook.katana/u0a77}
+    authority=com.facebook.katana.provider.CacheProvider
+  * ContentProviderRecord{429bc6f8 u0 com.estrongs.android.pop/com.duapps.ad.stats.DuAdCacheProvider}
+    proc=ProcessRecord{42a4fc28 7413:com.estrongs.android.pop/u0a131}
+    authority=com.estrongs.android.pop.DuAdCacheProvider
+  * ContentProviderRecord{42c95d08 u0 com.google.android.gms/.auth.CredentialStateContentProvider}
+    proc=ProcessRecord{428b6738 18395:com.google.android.gms/u0a27}
+    authority=com.google.android.gms.auth.confirm
+  * ContentProviderRecord{429e40b0 u0 com.yandex.browser/.YandexAccountProvider}
+    proc=ProcessRecord{42840a68 18531:com.yandex.browser/u0a118}
+    authority=com.yandex.auth.com.yandex.browser.YandexAccountProvider
+  * ContentProviderRecord{42964798 u0 com.android.chrome/org.chromium.chrome.browser.ChromeBrowserProvider}
+    proc=ProcessRecord{4284fb90 18976:com.android.chrome/u0a30}
+    authority=com.android.chrome.ChromeBrowserProvider;com.android.chrome.browser;com.android.chrome
+  * ContentProviderRecord{42c95da0 u0 com.google.android.gms/.ads.adinfo.AdvertisingInfoContentProvider}
+    proc=ProcessRecord{428b6738 18395:com.google.android.gms/u0a27}
+    authority=com.google.android.gms.ads.adinfo
+  * ContentProviderRecord{428c97a8 u0 ru.yandex.disk/.YPLContentProvider}
+    proc=ProcessRecord{427cddf8 1164:ru.yandex.disk/u0a85}
+    authority=ru.yandex.disk.YPLContentProvider
+  * ContentProviderRecord{42785bd0 u0 com.android.documentsui/.RecentsProvider}
+    proc=ProcessRecord{41f4ab48 18769:com.android.documentsui/u0a34}
+    authority=com.android.documentsui.recents
+  * ContentProviderRecord{42b4a448 u0 com.google.android.gms/.plus.provider.PlusProvider}
+    proc=ProcessRecord{428b6738 18395:com.google.android.gms/u0a27}
+    authority=com.google.android.gms.plus;com.google.android.gms.plus.action
+  * ContentProviderRecord{428c9970 u0 ru.yandex.disk/.YandexAccountProvider}
+    proc=ProcessRecord{427cddf8 1164:ru.yandex.disk/u0a85}
+    authority=com.yandex.auth.ru.yandex.disk.YandexAccountProvider
+  * ContentProviderRecord{423bae38 u0 com.android.providers.telephony/.MmsSmsProvider}
+    proc=ProcessRecord{426e9b08 651:com.android.phone/1001}
+    authority=mms-sms
+  * ContentProviderRecord{42c95e38 u0 com.google.android.gms/.games.provider.NotificationStubContentProvider}
+    proc=ProcessRecord{428b6738 18395:com.google.android.gms/u0a27}
+    authority=com.google.android.gms.games
+  * ContentProviderRecord{42a75de8 u0 com.android.providers.contacts/.CallLogProvider}
+    proc=ProcessRecord{426768e8 16140:android.process.acore/u0a0}
+    authority=call_log
+    1 connections, 0 external handles
+      -> 17231:com.android.dialer/u0a12 s1/1 u0/15 +2h6m58s793ms
+  * ContentProviderRecord{428792c0 u0 com.facebook.katana/.generated_content_providers.com.facebook.katana.provider.KeyValueProvider}
+    proc=ProcessRecord{42a516f8 18754:com.facebook.katana/u0a77}
+    authority=com.facebook.katana.provider.KeyValueProvider
+  * ContentProviderRecord{42529c88 u0 com.yandex.launcher/.auth.YandexAccountProvider}
+    proc=ProcessRecord{42680288 879:com.yandex.launcher/u0a159}
+    authority=com.yandex.auth.com.yandex.launcher.YandexAccountProvider
+  * ContentProviderRecord{42ab4bc0 u0 com.android.providers.contacts/.VoicemailContentProvider}
+    proc=ProcessRecord{426768e8 16140:android.process.acore/u0a0}
+    authority=com.android.voicemail
+  * ContentProviderRecord{42964830 u0 com.android.chrome/com.google.android.apps.chrome.autofill.AutofillDataProvider}
+    proc=ProcessRecord{4284fb90 18976:com.android.chrome/u0a30}
+    authority=com.android.chrome.AutofillDataProvider
+  * ContentProviderRecord{42568340 u0 com.google.android.gsf/.subscribedfeeds.SubscribedFeedsProvider}
+    proc=ProcessRecord{42afb6d8 30718:com.google.process.gapps/u0a27}
+    authority=subscribedfeeds
+  * ContentProviderRecord{42849b20 u0 com.facebook.katana/.app.providers.MessagesDbContentProvider}
+    proc=ProcessRecord{42a516f8 18754:com.facebook.katana/u0a77}
+    authority=com.facebook.katana.messages
+  * ContentProviderRecord{42c5b040 u0 com.google.android.gms/android.support.v4.content.FileProvider}
+    proc=ProcessRecord{428b6738 18395:com.google.android.gms/u0a27}
+    authority=com.google.android.gms.photos.autobackup.debugfileprovider
+  * ContentProviderRecord{42c15908 u0 com.google.android.apps.plus/.content.EsProvider}
+    proc=ProcessRecord{428869f0 18327:com.google.android.apps.plus/u0a60}
+    authority=com.google.android.apps.plus.content.EsProvider
+  * ContentProviderRecord{42c5b0d8 u0 com.google.android.gms/.reminders.provider.RemindersProvider}
+    proc=ProcessRecord{428b6738 18395:com.google.android.gms/u0a27}
+    authority=com.google.android.gms.reminders
+  * ContentProviderRecord{428c5670 u0 com.android.providers.media/.MediaProvider}
+    proc=ProcessRecord{42b20210 17632:android.process.media/u0a13}
+    authority=media
+  * ContentProviderRecord{42aac4a8 u0 com.android.providers.contacts/.debug.DumpFileProvider}
+    proc=ProcessRecord{426768e8 16140:android.process.acore/u0a0}
+    authority=com.android.contacts.dumpfile
+  * ContentProviderRecord{429648c8 u0 com.android.chrome/com.google.android.apps.chrome.icing.IcingProvider}
+    proc=ProcessRecord{4284fb90 18976:com.android.chrome/u0a30}
+    authority=com.android.chrome.icing
+  * ContentProviderRecord{428783d0 u0 com.facebook.katana/.generated_content_providers.com.facebook.contacts.data.FbContactsContentProvider}
+    proc=ProcessRecord{42a516f8 18754:com.facebook.katana/u0a77}
+    authority=com.facebook.katana.contacts
+  * ContentProviderRecord{42bac088 u0 com.google.android.apps.plus/com.google.android.apps.photos.content.GooglePhotosImageProvider}
+    proc=ProcessRecord{428869f0 18327:com.google.android.apps.plus/u0a60}
+    authority=com.google.android.apps.photos.content
+  * ContentProviderRecord{42c5b170 u0 com.google.android.gms/.chromesync.persistence.ContentProvider}
+    proc=ProcessRecord{428b6738 18395:com.google.android.gms/u0a27}
+    authority=com.google.android.gms.chromesync.persistence.provider
+  * ContentProviderRecord{4286a080 u0 com.facebook.katana/com.facebook.bookmark.provider.BookmarkProvider}
+    proc=ProcessRecord{42a516f8 18754:com.facebook.katana/u0a77}
+    authority=com.facebook.katana.provider.BookmarkProvider
+  * ContentProviderRecord{428687f8 u0 com.facebook.katana/.provider.orca.MessengerForegroundProvider}
+    proc=ProcessRecord{42a516f8 18754:com.facebook.katana/u0a77}
+    authority=com.facebook.katana.provider.MessagesForegroundProvider
+  * ContentProviderRecord{42552790 u0 com.google.android.syncadapters.contacts/.GalProvider}
+    proc=ProcessRecord{42afb6d8 30718:com.google.process.gapps/u0a27}
+    authority=com.google.contacts.gal.provider
+  * ContentProviderRecord{42be05b0 u0 com.google.android.apps.plus/com.google.android.apps.photos.autobackup.AutoBackupProvider}
+    proc=ProcessRecord{428869f0 18327:com.google.android.apps.plus/u0a60}
+    authority=com.google.android.apps.plus.iu.EsGoogleIuProvider
+  * ContentProviderRecord{42848d30 u0 com.facebook.katana/.generated_content_providers.com.facebook.events.data.EventsProvider}
+    proc=ProcessRecord{42a516f8 18754:com.facebook.katana/u0a77}
+    authority=com.facebook.katana.provider.EventsProvider
+  * ContentProviderRecord{429a0600 u0 com.android.deskclock/.provider.ClockProvider}
+    proc=ProcessRecord{426c28a0 19134:com.android.deskclock/1000}
+    authority=com.android.deskclock
+  * ContentProviderRecord{42c5b208 u0 com.google.android.gms/.icing.proxy.AppsContentProvider}
+    proc=ProcessRecord{428b6738 18395:com.google.android.gms/u0a27}
+    authority=com.google.android.gms.icing.proxy.apps
+  * ContentProviderRecord{42c95ed0 u0 com.google.android.gms/.drive.metadata.sync.syncadapter.StubContentProvider}
+    proc=ProcessRecord{428b6738 18395:com.google.android.gms/u0a27}
+    authority=com.google.android.gms.drive.sync
+  * ContentProviderRecord{429dfe28 u0 com.yandex.browser/.BrowserProvider}
+    proc=ProcessRecord{42840a68 18531:com.yandex.browser/u0a118}
+    authority=com.yandex.browser;com.yandex.browser.browser-contract
+  * ContentProviderRecord{42a72b90 u0 com.android.providers.userdictionary/.UserDictionaryProvider}
+    proc=ProcessRecord{426768e8 16140:android.process.acore/u0a0}
+    authority=user_dictionary
+  * ContentProviderRecord{4253f2b0 u0 com.google.android.gsf/.gservices.GservicesProvider}
+    proc=ProcessRecord{42afb6d8 30718:com.google.process.gapps/u0a27}
+    authority=com.google.android.gsf.gservices
+  * ContentProviderRecord{42868490 u0 com.facebook.katana/com.facebook.contacts.provider.ContactsConnectionsProvider}
+    proc=ProcessRecord{42a516f8 18754:com.facebook.katana/u0a77}
+    authority=com.facebook.katana.provider.ContactsConnectionsProvider
+  * ContentProviderRecord{42909850 u0 com.facebook.katana/com.facebook.dash.nodex.NodexWarmupContentProvider}
+    proc=ProcessRecord{42990390 18711:com.facebook.katana:dash/u0a77}
+    authority=com.facebook.katana.nodex.dash.setup
+  * ContentProviderRecord{42c5b2a0 u0 com.google.android.gms/.icing.proxy.SmsContentProvider}
+    proc=ProcessRecord{428b6738 18395:com.google.android.gms/u0a27}
+    authority=com.google.android.gms.icing.proxy.sms
+  * ContentProviderRecord{426ff1f8 u0 com.google.android.gms/.fitness.sync.FitnessContentProvider}
+    proc=ProcessRecord{428905e0 850:com.google.android.gms.persistent/u0a27}
+    authority=com.google.android.gms.fitness
+  * ContentProviderRecord{42866d28 u0 com.facebook.katana/.generated_content_providers.com.facebook.photos.provider.PhotosProvider}
+    proc=ProcessRecord{42a516f8 18754:com.facebook.katana/u0a77}
+    authority=com.facebook.katana.provider.PhotosProvider
+  * ContentProviderRecord{427cbe10 u0 com.facebook.katana/.provider.orca.FbSharedPreferencesContentProvider}
+    proc=ProcessRecord{42a516f8 18754:com.facebook.katana/u0a77}
+    launchingApp=ProcessRecord{42a516f8 18754:com.facebook.katana/u0a77}
+    authority=com.facebook.katana.provider.FbSharedPrefsProvider
+  * ContentProviderRecord{429d5da0 u0 com.google.android.talk/com.google.android.apps.babel.content.EsProvider}
+    proc=ProcessRecord{42662708 19103:com.google.android.talk/u0a67}
+    authority=com.google.android.apps.babel.content.EsProvider
+  * ContentProviderRecord{42964700 u0 com.android.chrome/org.chromium.chrome.browser.util.CompatibilityFileProvider}
+    proc=ProcessRecord{4284fb90 18976:com.android.chrome/u0a30}
+    authority=com.android.chrome.FileProvider
+  * ContentProviderRecord{42605830 u0 com.google.android.apps.docs/com.google.android.gms.drive.external.StorageBackendContentProvider}
+    proc=ProcessRecord{41f6b1a0 18795:com.google.android.apps.docs/u0a38}
+    launchingApp=ProcessRecord{41f6b1a0 18795:com.google.android.apps.docs/u0a38}
+    authority=com.google.android.apps.docs.storage
+  * ContentProviderRecord{42881ee0 u0 com.yandex.browser.beta/.YandexAccountProvider}
+    proc=ProcessRecord{428876d8 18622:com.yandex.browser.beta/u0a105}
+    authority=com.yandex.auth.com.yandex.browser.beta.YandexAccountProvider
+  * ContentProviderRecord{42898370 u0 com.sprd.audioprofile/.AudioProfileProvider}
+    proc=ProcessRecord{429ed580 18101:com.android.settings/1000}
+    authority=com.sprd.audioprofile.provider
+  * ContentProviderRecord{42c907b0 u0 com.google.android.gms/.common.stats.net.contentprovider.NetworkUsageContentProvider}
+    proc=ProcessRecord{428b6738 18395:com.google.android.gms/u0a27}
+    authority=com.google.android.gms.common.stats.net.contentprovider
+  * ContentProviderRecord{42a76e28 u0 com.android.providers.applications/.ApplicationsProvider}
+    proc=ProcessRecord{426768e8 16140:android.process.acore/u0a0}
+    authority=applications
+  * ContentProviderRecord{4274f8f0 u0 com.google.android.gms/.auth.api.credentials.sync.CredentialContentProvider}
+    proc=ProcessRecord{428b6738 18395:com.google.android.gms/u0a27}
+    authority=com.google.android.gms.auth.api.credentials
+  * ContentProviderRecord{423b8178 u0 com.android.providers.telephony/.MmsProvider}
+    proc=ProcessRecord{426e9b08 651:com.android.phone/1001}
+    authority=mms
+  * ContentProviderRecord{429bc790 u0 com.estrongs.android.pop/.app.FileContentProvider}
+    proc=ProcessRecord{42a4fc28 7413:com.estrongs.android.pop/u0a131}
+    authority=com.estrongs.files
+  * ContentProviderRecord{428659c0 u0 com.facebook.katana/.generated_content_providers.com.facebook.katana.provider.VideosProvider}
+    proc=ProcessRecord{42a516f8 18754:com.facebook.katana/u0a77}
+    authority=com.facebook.katana.provider.VideosProvider
+  * ContentProviderRecord{42529be8 u0 com.google.android.gms/.auth.accountstate.AccountStateContentProvider}
+    proc=ProcessRecord{42afb6d8 30718:com.google.process.gapps/u0a27}
+    authority=com.google.android.gms.auth.accountstate
+  * ContentProviderRecord{42be0648 u0 com.google.android.apps.plus/com.google.android.libraries.social.picasalegacy.PicasaPhotoContentProvider}
+    proc=ProcessRecord{428869f0 18327:com.google.android.apps.plus/u0a60}
+    authority=com.google.android.apps.plus.content.EsPicasaStoreProvider
+  * ContentProviderRecord{4287a8b0 u0 com.android.settings/android.support.v4.content.FileProvider}
+    proc=ProcessRecord{429ed580 18101:com.android.settings/1000}
+    authority=com.android.settings.files
+  * ContentProviderRecord{42a16680 u0 com.android.externalstorage/.ExternalStorageProvider}
+    proc=ProcessRecord{41f51300 18782:com.android.externalstorage/u0a15}
+    launchingApp=ProcessRecord{41f51300 18782:com.android.externalstorage/u0a15}
+    authority=com.android.externalstorage.documents
+  * ContentProviderRecord{429e09a0 u0 com.yandex.browser/.FileProvider}
+    proc=ProcessRecord{42840a68 18531:com.yandex.browser/u0a118}
+    authority=com.yandex.browser.FileProvider
+  * ContentProviderRecord{42c90848 u0 com.google.android.gms/.people.service.PeopleContentProvider}
+    proc=ProcessRecord{428b6738 18395:com.google.android.gms/u0a27}
+    authority=com.google.android.gms.people
+  * ContentProviderRecord{4274f988 u0 com.google.android.gms/.chromesync.sync.SyncContentProvider}
+    proc=ProcessRecord{428b6738 18395:com.google.android.gms/u0a27}
+    authority=com.google.android.gms.chromesync
+  * ContentProviderRecord{42c908e0 u0 com.google.android.gms/.appstate.provider.AppStateContentProvider}
+    proc=ProcessRecord{428b6738 18395:com.google.android.gms/u0a27}
+    authority=com.google.android.gms.appstate
+  * ContentProviderRecord{42882128 u0 com.yandex.browser.beta/.FileProvider}
+    proc=ProcessRecord{428876d8 18622:com.yandex.browser.beta/u0a105}
+    authority=com.yandex.browser.beta.FileProvider
+  * ContentProviderRecord{42529230 u0 com.google.android.gsf/.talk.TalkProvider}
+    proc=ProcessRecord{42afb6d8 30718:com.google.process.gapps/u0a27}
+    authority=com.google.android.providers.talk
+  * ContentProviderRecord{42827ad0 u0 com.google.android.apps.docs/com.google.android.gms.drive.external.LegacyStorageBackendContentProvider}
+    proc=ProcessRecord{41f6b1a0 18795:com.google.android.apps.docs/u0a38}
+    authority=com.google.android.apps.docs.storage.legacy
+  * ContentProviderRecord{42842ed8 u0 com.facebook.katana/.generated_content_providers.com.facebook.katana.provider.UserStatusesProvider}
+    proc=ProcessRecord{42a516f8 18754:com.facebook.katana/u0a77}
+    authority=com.facebook.katana.provider.UserStatusesProvider
+  * ContentProviderRecord{4251cc40 u0 com.yandex.launcher/com.google.android.gms.measurement.AppMeasurementContentProvider}
+    proc=ProcessRecord{42680288 879:com.yandex.launcher/u0a159}
+    authority=com.yandex.launcher.google_measurement_service
+  * ContentProviderRecord{428c5708 u0 com.android.providers.media/.MediaDocumentsProvider}
+    proc=ProcessRecord{42b20210 17632:android.process.media/u0a13}
+    authority=com.android.providers.media.documents
+  * ContentProviderRecord{424ec950 u0 com.android.inputmethod.latin/com.android.inputmethod.dictionarypack.DictionaryProvider}
+    proc=ProcessRecord{42782d70 16418:com.android.inputmethod.latin/u0a2}
+    authority=com.android.inputmethod.dictionarypack.aosp
+  * ContentProviderRecord{42a6f1a0 u0 com.android.providers.contacts/.ContactsProvider2}
+    proc=ProcessRecord{426768e8 16140:android.process.acore/u0a0}
+    authority=contacts;com.android.contacts
+    1 connections, 0 external handles
+      -> 17231:com.android.dialer/u0a12 s1/1 u0/24 +2h6m58s826ms
+  * ContentProviderRecord{428644c8 u0 com.facebook.katana/com.facebook.prefetch.provider.TimelinePrefetchContentProvider}
+    proc=ProcessRecord{42a516f8 18754:com.facebook.katana/u0a77}
+    authority=com.facebook.katana.provider.TimelinePrefetchContentProvider
+  * ContentProviderRecord{4274fa20 u0 com.google.android.gms/.people.debug.PeopleExportProvider}
+    proc=ProcessRecord{428b6738 18395:com.google.android.gms/u0a27}
+    authority=com.google.android.gms.people.export
+  * ContentProviderRecord{42be06e0 u0 com.google.android.apps.plus/com.google.android.apps.photos.content.GooglePhotoDownsyncProvider}
+    proc=ProcessRecord{428869f0 18327:com.google.android.apps.plus/u0a60}
+    authority=com.google.android.apps.photos.GooglePhotoDownsyncProvider
+  * ContentProviderRecord{4281bd30 u0 com.google.android.apps.docs/.welcome.PromotionEnabled}
+    proc=ProcessRecord{41f6b1a0 18795:com.google.android.apps.docs/u0a38}
+    authority=com.google.android.apps.docs.oem.welcome.promotion
+  * ContentProviderRecord{4281bad8 u0 com.google.android.apps.docs/com.google.android.gms.drive.database.DocListProvider}
+    proc=ProcessRecord{41f6b1a0 18795:com.google.android.apps.docs/u0a38}
+    authority=com.google.android.apps.docs
+  * ContentProviderRecord{42c90978 u0 com.google.android.gms/.games.chimera.GamesContentProviderProxy}
+    proc=ProcessRecord{428b6738 18395:com.google.android.gms/u0a27}
+    authority=com.google.android.gms.games.background
+
+  Granted Uri Permissions:
+  * UID 10027 holds:
+    UriPermission{42663530 content://com.google.android.apps.books/appdatasearch/volumes__id}
+
+ACTIVITY MANAGER SERVICES (dumpsys activity services)
+  User 0 active services:
+  * ServiceRecord{4277c190 u0 com.android.bluetooth/.hid.HidService}
+    app=null
+    created=-1d23h39m9s596ms started=false connections=0
+  * ServiceRecord{426e8438 u0 com.yandex.launcher/.NotiService2}
+    app=ProcessRecord{42680288 879:com.yandex.launcher/u0a159}
+    created=-2d1h37m30s349ms started=true connections=0
+  * ServiceRecord{42741608 u0 com.android.phone/.CallForwardService}
+    app=ProcessRecord{426e9b08 651:com.android.phone/1001}
+    created=-2d1h36m32s357ms started=true connections=0
+  * ServiceRecord{426e9000 u0 com.google.android.backuptransport/com.google.android.backup.BackupTransportService}
+    app=ProcessRecord{426ea6b8 865:com.google.process.location/u0a27}
+    created=-2d1h37m44s524ms started=false connections=1
+    Connections:
+      act=android.backup.TRANSPORT_HOST -> 570:system/1000
+  * ServiceRecord{4278aa00 u0 com.android.phone/.BluetoothPhoneService}
+    app=ProcessRecord{426e9b08 651:com.android.phone/1001}
+    created=-2d1h37m42s130ms started=true connections=1
+    Connections:
+       -> 651:com.android.phone/1001
+  * ServiceRecord{4293e738 u0 com.whatsapp/.ExternalMediaManager}
+    app=null
+    created=-2d1h37m25s91ms started=true connections=0
+  * ServiceRecord{427c1308 u0 com.tcl.live/.service.OnetouchLiveService}
+    app=ProcessRecord{429dea78 32209:com.tcl.live/u0a3}
+    created=-2d1h37m16s848ms started=true connections=0
+  * ServiceRecord{42798230 u0 com.google.android.gms/com.google.android.location.places.service.PlaceDetectionService}
+    app=ProcessRecord{428905e0 850:com.google.android.gms.persistent/u0a27}
+    created=-2d1h36m43s150ms started=false connections=1
+    Connections:
+      act=com.google.android.gms.location.places.PlaceDetectionApi pkg=com.google.android.gms -> 850:com.google.android.gms.persistent/u0a27
+  * ServiceRecord{42731398 u0 com.android.systemui/.ImageWallpaper}
+    app=ProcessRecord{424a9cf0 638:com.android.systemui/u0a35}
+    created=-2d1h37m41s684ms started=false connections=1
+    Connections:
+      act=android.service.wallpaper.WallpaperService -> 570:system/1000
+  * ServiceRecord{426f2608 u0 com.google.android.gms/com.google.android.location.geocode.GeocodeService}
+    app=ProcessRecord{428905e0 850:com.google.android.gms.persistent/u0a27}
+    created=-22h3m57s275ms started=false connections=1
+    Connections:
+      act=com.android.location.service.GeocodeProvider pkg=com.google.android.gms -> 570:system/1000
+  * ServiceRecord{429ed290 u0 com.google.android.apps.plus/.service.EsSyncAdapterService}
+    app=ProcessRecord{428869f0 18327:com.google.android.apps.plus/u0a60}
+    created=-3s504ms started=false connections=1
+    Connections:
+      act=android.content.SyncAdapter -> 570:system/1000
+  * ServiceRecord{428dc2f0 u0 com.google.android.gms/.gcm.GcmService}
+    app=ProcessRecord{42afb6d8 30718:com.google.process.gapps/u0a27}
+    created=-2d1h33m17s169ms started=true connections=0
+  * ServiceRecord{4286c780 u0 com.google.android.gms/.analytics.service.AnalyticsService}
+    app=ProcessRecord{428b6738 18395:com.google.android.gms/u0a27}
+    created=-10m36s639ms started=false connections=1
+    Connections:
+      act=com.google.android.gms.analytics.service.START -> 19103:com.google.android.talk/u0a67
+  * ServiceRecord{4268c2d8 u0 com.google.android.gms/.auth.be.GoogleAccountDataService}
+    app=ProcessRecord{42afb6d8 30718:com.google.process.gapps/u0a27}
+    created=-3s28ms started=false connections=1
+    Connections:
+      act=com.google.android.gms.auth.DATA_PROXY pkg=com.google.android.gms -> 30718:com.google.process.gapps/u0a27
+  * ServiceRecord{42810b30 u0 com.android.dialer/com.android.incallui.CallHandlerService}
+    app=ProcessRecord{428365e8 807:com.android.incallui/u0a12}
+    created=-2d1h37m41s964ms started=false connections=1
+    Connections:
+      act=com.android.services.telephony.common.ICallHandlerService -> 651:com.android.phone/1001
+  * ServiceRecord{4206ee10 u0 com.android.keyguard/.KeyguardService}
+    app=ProcessRecord{424a9cf0 638:com.android.systemui/u0a35}
+    created=-2d1h37m44s102ms started=false connections=1
+    Connections:
+       -> 570:system/1000
+  * ServiceRecord{42c264d0 u0 com.google.android.gms/com.google.android.location.fused.service.FusedProviderService}
+    app=ProcessRecord{428905e0 850:com.google.android.gms.persistent/u0a27}
+    created=-22h3m57s267ms started=false connections=1
+    Connections:
+      act=com.android.location.service.FusedProvider pkg=com.google.android.gms -> 570:system/1000
+  * ServiceRecord{427dd030 u0 com.android.bluetooth/.pbap.BluetoothPbapService}
+    app=null
+    created=-1d23h39m9s580ms started=false connections=0
+  * ServiceRecord{427f57b8 u0 com.google.android.gms/com.google.android.location.fused.FusedLocationService}
+    app=ProcessRecord{428905e0 850:com.google.android.gms.persistent/u0a27}
+    created=-22h3m57s284ms started=false connections=1
+    Connections:
+      act=com.android.location.service.FusedLocationProvider pkg=com.google.android.gms -> 570:system/1000
+  * ServiceRecord{42938a08 u0 ru.yandex.disk/.NetworkService}
+    app=ProcessRecord{427cddf8 1164:ru.yandex.disk/u0a85}
+    created=-2d1h37m25s137ms started=true connections=0
+  * ServiceRecord{42674bf8 u0 com.android.providers.contacts/com.sprd.providers.contacts.SyncSimAccountsWatchdog}
+    app=ProcessRecord{426768e8 16140:android.process.acore/u0a0}
+    created=-2d1h37m42s62ms started=true connections=0
+  * ServiceRecord{42924108 u0 ru.yandex.disk/.MediaMonitoringService}
+    app=ProcessRecord{427cddf8 1164:ru.yandex.disk/u0a85}
+    created=-2d1h37m25s447ms started=true connections=0
+  * ServiceRecord{428d7bc0 u0 com.android.bluetooth/.a2dp.A2dpService}
+    app=null
+    created=-2d1h36m38s807ms started=false connections=1
+    Connections:
+      act=android.bluetooth.IBluetoothA2dp -> 570:system/1000
+  * ServiceRecord{42796390 u0 com.google.android.googlequicksearchbox/com.google.android.search.core.service.SearchService}
+    app=null
+    created=-2d1h36m31s707ms started=true connections=0
+  * ServiceRecord{42a19950 u0 com.google.android.gms/com.google.android.location.geofencer.service.GeofenceProviderService}
+    app=ProcessRecord{428905e0 850:com.google.android.gms.persistent/u0a27}
+    created=-22h3m57s258ms started=false connections=1
+    Connections:
+      act=com.android.location.service.GeofenceProvider pkg=com.google.android.gms -> 570:system/1000
+  * ServiceRecord{42410c28 u0 com.yandex.launcher/com.yandex.metrica.MetricaService}
+    app=ProcessRecord{429673a8 18033:com.yandex.launcher:Metrica/u0a159}
+    created=-11m8s271ms started=false connections=1
+    Connections:
+      act=com.yandex.metrica.IMetricaService dat=metrica://com.yandex.launcher flg=0x20 pkg=com.yandex.launcher -> 879:com.yandex.launcher/u0a159
+      act=com.yandex.metrica.IMetricaService dat=metrica://com.yandex.launcher flg=0x20 pkg=com.yandex.launcher -> 879:com.yandex.launcher/u0a159
+  * ServiceRecord{423b91a8 u0 com.android.systemui/.SystemUIService}
+    app=ProcessRecord{424a9cf0 638:com.android.systemui/u0a35}
+    created=-2d1h37m44s24ms started=true connections=0
+  * ServiceRecord{428a13b8 u0 android/.hardware.location.GeofenceHardwareService}
+    app=ProcessRecord{423a7bb0 570:system/1000}
+    created=-2d1h37m41s523ms started=false connections=1
+    Connections:
+       -> 570:system/1000
+  * ServiceRecord{4266bd70 u0 com.android.stk1/.StkAppService}
+    app=ProcessRecord{426e9b08 651:com.android.phone/1001}
+    created=-2d1h37m34s333ms started=true connections=0
+  * ServiceRecord{427be628 u0 com.tcl.live/.miniapp.MiniAppService}
+    app=ProcessRecord{42c052e0 32185:com.tcl.live:miniapp/u0a3}
+    created=-2d1h37m16s850ms started=true connections=0
+  * ServiceRecord{428762f8 u0 com.touchtype.swiftkey/com.touchtype.KeyboardService}
+    app=ProcessRecord{42876f20 837:com.touchtype.swiftkey/u0a70}
+    created=-2d1h37m41s627ms started=false connections=1
+    Connections:
+      act=android.view.InputMethod -> 570:system/1000
+  * ServiceRecord{426e5688 u0 com.yandex.launcher/.NotiService}
+    app=ProcessRecord{42680288 879:com.yandex.launcher/u0a159}
+    created=-2d1h37m33s344ms started=true connections=0
+  * ServiceRecord{420eddf0 u0 com.estrongs.android.pop/com.estrongs.android.ui.notification.ESTaskService}
+    app=ProcessRecord{42a4fc28 7413:com.estrongs.android.pop/u0a131}
+    created=-1d23h39m16s833ms started=false connections=1
+    Connections:
+       -> 7413:com.estrongs.android.pop/u0a131
+  * ServiceRecord{42684a68 u0 com.google.android.gms/com.google.android.location.internal.server.GoogleLocationService}
+    app=ProcessRecord{428905e0 850:com.google.android.gms.persistent/u0a27}
+    created=-2d1h37m33s444ms started=true connections=0
+  * ServiceRecord{427360f8 u0 com.google.android.gms/com.google.android.contextmanager.service.ContextManagerService}
+    app=ProcessRecord{428905e0 850:com.google.android.gms.persistent/u0a27}
+    created=-2d1h35m44s553ms started=true connections=1
+    Connections:
+      act=com.google.android.contextmanager.service.ContextManagerService.START pkg=com.google.android.gms -> 850:com.google.android.gms.persistent/u0a27
+  * ServiceRecord{429490f8 u0 com.google.android.gms/com.google.android.location.network.NetworkLocationService}
+    app=ProcessRecord{428905e0 850:com.google.android.gms.persistent/u0a27}
+    created=-22h3m57s293ms started=false connections=1
+    Connections:
+      act=com.android.location.service.v3.NetworkLocationProvider pkg=com.google.android.gms -> 570:system/1000
+  * ServiceRecord{428dcef8 u0 com.android.stk/.StkAppService}
+    app=ProcessRecord{426e9b08 651:com.android.phone/1001}
+    created=-2d1h37m39s132ms started=true connections=0
+  * ServiceRecord{426de488 u0 com.google.android.gms/com.google.android.location.internal.GoogleLocationManagerService}
+    app=ProcessRecord{428905e0 850:com.google.android.gms.persistent/u0a27}
+    created=-2d1h37m36s461ms started=true connections=1
+    Connections:
+      act=com.google.android.location.internal.GoogleLocationManagerService.START pkg=com.google.android.gms -> 850:com.google.android.gms.persistent/u0a27
+  * ServiceRecord{428fc450 u0 com.ksmobile.cb/com.ijinshan.browser.KBrowserService}
+    app=null
+    created=-2d1h37m38s894ms started=true connections=0
+  * ServiceRecord{4295bbb8 u0 com.android.providers.media/.MtpService}
+    app=ProcessRecord{42b20210 17632:android.process.media/u0a13}
+    created=-2m47s605ms started=true connections=1
+    Connections:
+       -> 17632:android.process.media/u0a13
+  * ServiceRecord{427f4c70 u0 com.google.android.gms/.deviceconnection.service.DeviceConnectionServiceBroker}
+    app=ProcessRecord{428905e0 850:com.google.android.gms.persistent/u0a27}
+    created=-2d1h36m11s204ms started=true connections=0
+  * ServiceRecord{42827e48 u0 com.android.bluetooth/.hfp.HeadsetService}
+    app=null
+    created=-2d1h37m42s63ms started=false connections=4
+    Connections:
+      act=android.bluetooth.IBluetoothHeadset -> 651:com.android.phone/1001
+      act=android.bluetooth.IBluetoothHeadset -> 651:com.android.phone/1001
+      act=android.bluetooth.IBluetoothHeadset -> 651:com.android.phone/1001
+      act=android.bluetooth.IBluetoothHeadset -> 570:system/1000
+  * ServiceRecord{426e5148 u0 android/com.android.internal.backup.LocalTransportService}
+    app=ProcessRecord{423a7bb0 570:system/1000}
+    created=-2d1h37m44s525ms started=false connections=1
+    Connections:
+      act=android.backup.TRANSPORT_HOST -> 570:system/1000
+  * ServiceRecord{42896a50 u0 com.google.android.gms/.clearcut.service.ClearcutLoggerService}
+    app=ProcessRecord{428905e0 850:com.google.android.gms.persistent/u0a27}
+    created=-10m32s257ms started=false connections=1
+    Connections:
+      act=com.google.android.gms.clearcut.service.START pkg=com.google.android.gms -> 18395:com.google.android.gms/u0a27
+  * ServiceRecord{427dc018 u0 com.android.phone/com.sprd.phone.callsetting.ReadFDNService}
+    app=ProcessRecord{426e9b08 651:com.android.phone/1001}
+    created=-2d1h36m8s344ms started=true connections=0
+  * ServiceRecord{42429a78 u0 com.android.providers.media/.MediaScannerService}
+    app=ProcessRecord{42b20210 17632:android.process.media/u0a13}
+    created=-2d1h37m39s578ms started=true connections=1
+    Connections:
+       -> 17632:android.process.media/u0a13
+  * ServiceRecord{42799fa8 u0 com.android.bluetooth/.map.BluetoothMapService}
+    app=null
+    created=-1d23h39m9s585ms started=false connections=0
+  * ServiceRecord{42824c80 u0 com.android.phone/.TelephonyDebugService}
+    app=ProcessRecord{426e9b08 651:com.android.phone/1001}
+    created=-2d1h37m42s158ms started=true connections=0
+  * ServiceRecord{428ce368 u0 com.google.android.talk/com.google.android.videochat.VideoChatService}
+    app=null
+    created=-2d1h36m44s961ms started=false connections=1
+    Connections:
+      act=com.google.android.talk.SOFT_BIND -> 19103:com.google.android.talk/u0a67
+  * ServiceRecord{423d7250 u0 com.android.inputmethod.latin/com.android.inputmethod.dictionarypack.DictionaryService}
+    app=ProcessRecord{42782d70 16418:com.android.inputmethod.latin/u0a2}
+    created=-11h59m34s216ms started=true connections=0
+  * ServiceRecord{42634ef0 u0 com.android.bluetooth/.pan.PanService}
+    app=null
+    created=-2d1h37m44s850ms started=false connections=1
+    Connections:
+      act=android.bluetooth.IBluetoothPan -> 570:system/1000
+  * ServiceRecord{425808a8 u0 com.jrdcom.weather/com.jrdcom.widget.UpdateWidgetTimeService}
+    app=ProcessRecord{427a9530 1233:com.jrdcom.weather/u0a69}
+    created=-2d1h37m35s149ms started=true connections=0
+  * ServiceRecord{427d2b78 u0 com.jrdcom.weather/com.jrdcom.data.MyService}
+    app=ProcessRecord{427a9530 1233:com.jrdcom.weather/u0a69}
+    created=-2d1h37m15s524ms started=true connections=0
+  * ServiceRecord{42695638 u0 com.touchtype.swiftkey/com.touchtype_fluency.service.FluencyServiceImpl}
+    app=ProcessRecord{42876f20 837:com.touchtype.swiftkey/u0a70}
+    created=-2d1h37m39s839ms started=false connections=1
+    Connections:
+       -> 837:com.touchtype.swiftkey/u0a70
+
+ACTIVITY MANAGER ACTIVITIES (dumpsys activity activities)
+  Stack #0:
+    Task id #1
+      TaskRecord{426ff2e0 #1 A=com.yandex.launcher U=0 sz=1}
+      Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10e00000 cmp=com.yandex.launcher/.Launcher }
+        Hist #0: ActivityRecord{4233c850 u0 com.yandex.launcher/.Launcher t1}
+          Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10800000 cmp=com.yandex.launcher/.Launcher }
+          ProcessRecord{42680288 879:com.yandex.launcher/u0a159}
+
+    Running activities (most recent first):
+      TaskRecord{426ff2e0 #1 A=com.yandex.launcher U=0 sz=1}
+        Run #0: ActivityRecord{4233c850 u0 com.yandex.launcher/.Launcher t1}
+
+    mResumedActivity: ActivityRecord{4233c850 u0 com.yandex.launcher/.Launcher t1}
+
+  Stack #1:
+    Task id #114
+      TaskRecord{429544d0 #114 A=com.sprd.settings.SprdUsbSettings U=0 sz=1}
+      Intent { act=com.sprd.settings.APPLICATION_SPRD_USB_SETTINGS flg=0x10a00000 cmp=com.android.settings/com.sprd.settings.SprdUsbSettings }
+        Hist #0: ActivityRecord{42679a70 u0 com.android.settings/com.sprd.settings.SprdUsbSettings t114}
+          Intent { act=com.sprd.settings.APPLICATION_SPRD_USB_SETTINGS flg=0x10a00000 cmp=com.android.settings/com.sprd.settings.SprdUsbSettings }
+          ProcessRecord{429ed580 18101:com.android.settings/1000}
+
+    Task id #108
+      TaskRecord{42c0ee40 #108 A=com.android.dialer U=0 sz=1}
+      Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 pkg=com.android.dialer cmp=com.android.dialer/.DialtactsActivity (has extras) }
+        Hist #0: ActivityRecord{429d4488 u0 com.android.dialer/.DialtactsActivity t108}
+          Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 pkg=com.android.dialer cmp=com.android.dialer/.DialtactsActivity bnds=[20,692][108,800] (has extras) }
+          ProcessRecord{42818618 17231:com.android.dialer/u0a12}
+
+    Task id #5
+      TaskRecord{42948f68 #5 A=ru.yandex.disk U=0 sz=1}
+      Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 pkg=ru.yandex.disk cmp=ru.yandex.disk/.MainActivity (has extras) }
+        Hist #0: ActivityRecord{42690be0 u0 ru.yandex.disk/ru.yandex.mail.disk.DiskActivity2 t5}
+          Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 pkg=ru.yandex.disk cmp=ru.yandex.disk/ru.yandex.mail.disk.DiskActivity2 bnds=[123,113][240,250] (has extras) }
+          ProcessRecord{427cddf8 1164:ru.yandex.disk/u0a85}
+
+    Task id #4
+      TaskRecord{427f4fd0 #4 A=com.estrongs.android.pop U=0 sz=1}
+      Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10600000 pkg=com.estrongs.android.pop cmp=com.estrongs.android.pop/.view.FileExplorerActivity (has extras) }
+        Hist #0: ActivityRecord{42969348 u0 com.estrongs.android.pop/.view.FileExplorerActivity t4}
+          Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 pkg=com.estrongs.android.pop cmp=com.estrongs.android.pop/.view.FileExplorerActivity bnds=[357,113][474,250] (has extras) }
+          ProcessRecord{42a4fc28 7413:com.estrongs.android.pop/u0a131}
+
+    Running activities (most recent first):
+      TaskRecord{429544d0 #114 A=com.sprd.settings.SprdUsbSettings U=0 sz=1}
+        Run #3: ActivityRecord{42679a70 u0 com.android.settings/com.sprd.settings.SprdUsbSettings t114}
+      TaskRecord{42c0ee40 #108 A=com.android.dialer U=0 sz=1}
+        Run #2: ActivityRecord{429d4488 u0 com.android.dialer/.DialtactsActivity t108}
+      TaskRecord{42948f68 #5 A=ru.yandex.disk U=0 sz=1}
+        Run #1: ActivityRecord{42690be0 u0 ru.yandex.disk/ru.yandex.mail.disk.DiskActivity2 t5}
+      TaskRecord{427f4fd0 #4 A=com.estrongs.android.pop U=0 sz=1}
+        Run #0: ActivityRecord{42969348 u0 com.estrongs.android.pop/.view.FileExplorerActivity t4}
+
+  mFocusedActivity: ActivityRecord{4233c850 u0 com.yandex.launcher/.Launcher t1}
+  mDismissKeyguardOnNextActivity=false
+  mFocusedStack=ActivityStack{42945f90 stackId=3, 4 tasks} mStackState=STACK_STATE_HOME_IN_FRONT
+  mSleepTimeout=false
+  mCurTaskId=114
+  mUserStackInFront={}
+
+  Recent tasks:
+  * Recent #0: TaskRecord{426ff2e0 #1 A=com.yandex.launcher U=0 sz=1}
+  * Recent #1: TaskRecord{429544d0 #114 A=com.sprd.settings.SprdUsbSettings U=0 sz=1}
+  * Recent #2: TaskRecord{42a4c550 #113 A=com.estrongs.android.pop U=0 sz=0}
+  * Recent #3: TaskRecord{42982b48 #112 A=com.android.packageinstaller U=0 sz=0}
+  * Recent #4: TaskRecord{42c0ee40 #108 A=com.android.dialer U=0 sz=1}
+  * Recent #5: TaskRecord{42862d00 #110 A=android.task.incallui U=0 sz=0}
+  * Recent #6: TaskRecord{42919678 #109 A=com.android.phone U=0 sz=0}
+  * Recent #7: TaskRecord{42a01928 #107 A=com.drweb.pro.market U=0 sz=0}
+  * Recent #8: TaskRecord{423ff250 #106 A=com.estrongs.android.pop.app.InstallMonitorActivity U=0 sz=0}
+  * Recent #9: TaskRecord{42b7bf60 #104 A=com.drweb.pro U=0 sz=0}
+
+ACTIVITY MANAGER RUNNING PROCESSES (dumpsys activity processes)
+  Process LRU list (sorted by oom_adj, 36 total, non-act at 6, non-svc at 6):
+    PERS #35: sys   F/ /P  trm: 0 570:system/1000 (fixed)
+    PERS #34: pers  F/ /P  trm: 0 651:com.android.phone/1001 (fixed)
+    PERS #33: pers  F/ /P  trm: 0 638:com.android.systemui/u0a35 (fixed)
+    Proc #28: pers  F/ /IB trm: 0 807:com.android.incallui/u0a12 (protected)
+        com.android.dialer/com.android.incallui.CallHandlerService<=Proc{651:com.android.phone/1001}
+    Proc # 0: fore  F/A/T  trm: 0 879:com.yandex.launcher/u0a159 (top-activity)
+    Proc #32: vis   F/ /IF trm: 0 865:com.google.process.location/u0a27 (service)
+        com.google.android.backuptransport/com.google.android.backup.BackupTransportService<=Proc{570:system/1000}
+    Proc # 9: vis   B/ /IB trm: 0 850:com.google.android.gms.persistent/u0a27 (service)
+        com.google.android.gms/com.google.android.location.geocode.GeocodeService<=Proc{570:system/1000}
+    Proc # 8: vis   B/ /IB trm: 0 18327:com.google.android.apps.plus/u0a60 (service)
+        com.google.android.apps.plus/.service.EsSyncAdapterService<=Proc{570:system/1000}
+    Proc # 3: vis   F/ /T  trm: 0 18033:com.yandex.launcher:Metrica/u0a159 (service)
+        com.yandex.launcher/com.yandex.metrica.MetricaService<=Proc{879:com.yandex.launcher/u0a159}
+    Proc #29: prcp  F/ /IF trm: 0 837:com.touchtype.swiftkey/u0a70 (service)
+        com.touchtype.swiftkey/com.touchtype.KeyboardService<=Proc{570:system/1000}
+    Proc # 6: svc   B/ /S  trm: 0 17632:android.process.media/u0a13 (started-services)
+    Proc # 1: prev  B/ /LA trm: 0 18101:com.android.settings/1000 (previous)
+    Proc #17: svcb  B/ /S  trm: 0 1233:com.jrdcom.weather/u0a69 (started-services)
+    Proc # 7: cch   B/ /S  trm: 0 30718:com.google.process.gapps/u0a27 (cch-started-services)
+    Proc # 5: cch   B/ /S  trm: 0 1164:ru.yandex.disk/u0a85 (cch-started-ui-services)
+    Proc # 2: cch   B/ /CA trm: 0 7413:com.estrongs.android.pop/u0a131 (cch-act)
+    Proc #19: cch+1 B/ /S  trm: 0 16140:android.process.acore/u0a0 (provider)
+        com.android.providers.contacts/.ContactsProvider2<=Proc{17231:com.android.dialer/u0a12}
+    Proc # 4: cch+1 B/ /CA trm: 0 17231:com.android.dialer/u0a12 (cch-act)
+    Proc #11: cch+2 B/ /CE trm: 0 19103:com.google.android.talk/u0a67 (cch-empty)
+    Proc #10: cch+2 B/ /CE trm: 0 19134:com.android.deskclock/1000 (cch-empty)
+    Proc #13: cch+4 B/ /CE trm: 0 18754:com.facebook.katana/u0a77 (cch-empty)
+    Proc #12: cch+4 B/ /CE trm: 0 18395:com.google.android.gms/u0a27 (cch-empty)
+    Proc #31: cch+6 B/ /S  trm: 0 32185:com.tcl.live:miniapp/u0a3 (cch-started-services)
+    Proc #30: cch+6 B/ /S  trm: 0 16418:com.android.inputmethod.latin/u0a2 (cch-started-services)
+    Proc #27: cch+6 B/ /S  trm: 0 32209:com.tcl.live/u0a3 (cch-started-services)
+    Proc #26: cch+6 B/ /CE trm: 0 18531:com.yandex.browser/u0a118 (cch-empty)
+    Proc #25: cch+6 B/ /CE trm: 0 18647:com.yandex.browser.beta:Metrica/u0a105 (cch-empty)
+    Proc #24: cch+6 B/ /CE trm: 0 18622:com.yandex.browser.beta/u0a105 (cch-empty)
+    Proc #23: cch+6 B/ /CE trm: 0 18711:com.facebook.katana:dash/u0a77 (cch-empty)
+    Proc #22: cch+6 B/ /CE trm: 0 18447:com.android.vending/u0a50 (cch-empty)
+    Proc #21: cch+6 B/ /CE trm: 0 18769:com.android.documentsui/u0a34 (cch-empty)
+    Proc #20: cch+6 B/ /CE trm: 0 18782:com.android.externalstorage/u0a15 (cch-empty)
+    Proc #18: cch+6 B/ /CE trm: 0 18795:com.google.android.apps.docs/u0a38 (cch-empty)
+    Proc #16: cch+6 B/ /CE trm: 0 18976:com.android.chrome/u0a30 (cch-empty)
+    Proc #15: cch+6 B/ /CE trm: 0 19010:ru.yandex.disk:Metrica/u0a85 (cch-empty)
+    Proc #14: cch+6 B/ /CE trm: 0 18992:ru.yandex.disk:aviary_cds/u0a85 (cch-empty)
+
+  mStartedUsers:
+    User #0: mState=RUNNING
+  mStartedUserArray: [0]
+  mUserLru: [0]
+  mHomeProcess: ProcessRecord{42680288 879:com.yandex.launcher/u0a159}
+  mPreviousProcess: ProcessRecord{429ed580 18101:com.android.settings/1000}
+  mConfiguration: {1.0 250mcc99mnc en_US ldltr sw320dp w320dp h508dp 240dpi nrml long port finger -keyb/v/h -nav/h s.30}

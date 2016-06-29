@@ -1,0 +1,264 @@
+ 
+  Sticky broadcasts:
+  * Sticky action android.media.SCO_AUDIO_STATE_CHANGED:
+    Intent: act=android.media.SCO_AUDIO_STATE_CHANGED
+      Bundle[{android.media.extra.SCO_AUDIO_STATE=0}]
+  * Sticky action android.net.thrott.THROTTLE_ACTION:
+    Intent: act=android.net.thrott.THROTTLE_ACTION
+      Bundle[{level=-1}]
+  * Sticky action android.hardware.usb.action.USB_STATE:
+    Intent: act=android.hardware.usb.action.USB_STATE flg=0x20000000
+      Bundle[{adb=enabled, ecm=disabled, nmea=enabled, diag=enabled, acm=enabled, acm2=disabled, connected=true, configuration=1, usb_mass_storage=enabled}]
+  * Sticky action com.android.music.queuechanged:
+    Intent: act=com.android.music.queuechanged
+      Bundle[mParcelledData.dataSize=140]
+  * Sticky action android.provider.Telephony.SPN_STRINGS_UPDATED:
+    Intent: act=android.provider.Telephony.SPN_STRINGS_UPDATED flg=0x20000000
+      Bundle[mParcelledData.dataSize=200]
+  * Sticky action android.net.conn.CONNECTIVITY_CHANGE:
+    Intent: act=android.net.conn.CONNECTIVITY_CHANGE flg=0x10000000
+      Bundle[{networkInfo=NetworkInfo: type: WIFI[], state: CONNECTED/CONNECTED, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, isIpv4Connected: true, isIpv6Connected: true, ipv4Name: wlan0, ipv6Name: wlan0, inetCondition=0}]
+  * Sticky action android.net.wifi.supplicant.STATE_CHANGE:
+    Intent: act=android.net.wifi.supplicant.STATE_CHANGE flg=0x30000000
+      Bundle[{newState=COMPLETED}]
+  * Sticky action android.net.conn.TETHER_STATE_CHANGED:
+    Intent: act=android.net.conn.TETHER_STATE_CHANGED flg=0x20000000
+      Bundle[{erroredArray=[], availableArray=[usb0], activeArray=[]}]
+  * Sticky action android.intent.action.BATTERY_CHANGED:
+    Intent: act=android.intent.action.BATTERY_CHANGED flg=0x60000000
+      Bundle[{icon-small=17302196, present=true, scale=100, level=78, technology=Li-ion, status=2, voltage=3963, plugged=2, health=2, temperature=330}]
+  * Sticky action android.net.wifi.WIFI_STATE_CHANGED:
+    Intent: act=android.net.wifi.WIFI_STATE_CHANGED flg=0x10000000
+      Bundle[{previous_wifi_state=2, wifi_state=3}]
+  * Sticky action android.net.thrott.POLL_ACTION:
+    Intent: act=android.net.thrott.POLL_ACTION
+      Bundle[{cycleRead=0, cycleStart=1431982800000, cycleEnd=1434661200000, cycleWrite=0}]
+  * Sticky action android.intent.action.SIM_STATE_CHANGED:
+    Intent: act=android.intent.action.SIM_STATE_CHANGED
+      Bundle[mParcelledData.dataSize=236]
+  * Sticky action android.intent.action.SERVICE_STATE:
+    Intent: act=android.intent.action.SERVICE_STATE flg=0x20000000
+      Bundle[{cdmaRoamingIndicator=-1, operator-numeric=, networkId=-1, state=1, emergencyOnly=false, SUBSCRIPTION=0, operator-alpha-short=, radioTechnology=0, manual=false, cssIndicator=false, operator-alpha-long=, systemId=-1, roaming=false, cdmaDefaultRoamingIndicator=-1}]
+  * Sticky action com.android.music.metachanged:
+    Intent: act=com.android.music.metachanged
+      Bundle[mParcelledData.dataSize=140]
+  * Sticky action android.net.wifi.STATE_CHANGE:
+    Intent: act=android.net.wifi.STATE_CHANGE flg=0x30000000
+      Bundle[{networkInfo=NetworkInfo: type: WIFI[], state: CONNECTED/CONNECTED, reason: (unspecified), extra: (none), roaming: false, failover: false, isAvailable: true, isIpv4Connected: true, isIpv6Connected: true, ipv4Name: wlan0, ipv6Name: wlan0, bssid=00:13:5f:57:38:71}]
+  * Sticky action android.media.RINGER_MODE_CHANGED:
+    Intent: act=android.media.RINGER_MODE_CHANGED flg=0x70000000
+      Bundle[{android.media.EXTRA_RINGER_MODE=2}]
+  * Sticky action android.intent.action.ANY_DATA_STATE:
+    Intent: act=android.intent.action.ANY_DATA_STATE flg=0x20000000
+      Bundle[{iface=null, reason=dataNetworkDetached, apnTypeState=DISCONNECTED, networkUnvailable=true, ipVersion=INET6, state=DISCONNECTED, apnType=ims, igwaddress=null, SUBSCRIPTION=0, apn=null, ipaddress=null}]
+ 
+  Activity stack:
+  * TaskRecord{4091c558 #7 A com.drweb.pro.market}
+    clearOnBackground=false numActivities=1 rootWasReset=true
+    affinity=com.drweb.pro.market
+    intent={act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.drweb.pro.market/com.drweb.activities.DrWebAntivirus}
+    realActivity=com.drweb.pro.market/com.drweb.activities.DrWebAntivirus
+    lastActiveTime=1153779 (inactive for 231s)
+    * Hist #4: HistoryRecord{40992000 com.drweb.pro.market/com.drweb.activities.DrWebAntivirus}
+        packageName=com.drweb.pro.market processName=com.drweb.pro.market
+        launchedFromUid=10038 app=ProcessRecord{40937598 2982:com.drweb.pro.market/10045}
+        Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.drweb.pro.market/com.drweb.activities.DrWebAntivirus }
+        frontOfTask=true task=TaskRecord{4091c558 #7 A com.drweb.pro.market}
+        taskAffinity=com.drweb.pro.market
+        realActivity=com.drweb.pro.market/com.drweb.activities.DrWebAntivirus
+        base=/data/app/com.drweb.pro.market-1.apk/data/app/com.drweb.pro.market-1.apk data=/data/data/com.drweb.pro.market
+        labelRes=0x7f0a00cc icon=0x7f02005a theme=0x7f0b0004
+        stateNotNeeded=false componentSpecified=true isHomeActivity=false
+        configuration={ scale=1.0 imsi=0/0 loc=ru_RU touch=3 keys=1/1/2 nav=1/1 orien=2 layout=18 uiMode=17 seq=8}
+        launchFailed=false haveState=false icicle=null
+        state=RESUMED stopped=false delayedResume=false finishing=false
+        keysPaused=false inHistory=true launchMode=0
+        fullscreen=true visible=true frozenBeforeDestroy=false thumbnailNeeded=false idle=true
+        waitingVisible=false nowVisible=true
+        connections=[ConnectionRecord{409c7f58 com.drweb.pro.market/com.drweb.antivirus.lib.monitor.MonitorService:@409ea570}, ConnectionRecord{40ad1568 com.drweb.pro.market/com.drweb.antivirus.lib.monitor.MonitorService:@409ea570}, ConnectionRecord{409ead30 com.drweb.pro.market/com.drweb.antivirus.lib.monitor.MonitorService:@409ea570}]
+  * TaskRecord{408a10a8 #2 A com.lge.launcher}
+    clearOnBackground=true numActivities=1 rootWasReset=true
+    affinity=com.lge.launcher
+    intent={act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10600000 cmp=com.lge.launcher/.Launcher}
+    realActivity=com.lge.launcher/.Launcher
+    lastActiveTime=1150057 (inactive for 235s)
+    * Hist #3: HistoryRecord{407afbc0 com.lge.launcher/.Launcher}
+        packageName=com.lge.launcher processName=android.process.lghome
+        launchedFromUid=0 app=ProcessRecord{407d4ec0 1734:android.process.lghome/10038}
+        Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10000000 cmp=com.lge.launcher/.Launcher }
+        frontOfTask=true task=TaskRecord{408a10a8 #2 A com.lge.launcher}
+        taskAffinity=com.lge.launcher
+        realActivity=com.lge.launcher/.Launcher
+        base=/system/app/LGHome.apk/system/app/LGHome.apk data=/data/data/com.lge.launcher
+        labelRes=0x7f0a0054 icon=0x7f020087 theme=0x103005f
+        stateNotNeeded=true componentSpecified=false isHomeActivity=true
+        configuration={ scale=1.0 imsi=0/0 loc=ru_RU touch=3 keys=1/1/2 nav=1/1 orien=1 layout=18 uiMode=17 seq=5}
+        launchFailed=false haveState=true icicle=Bundle[mParcelledData.dataSize=68]
+        state=STOPPED stopped=true delayedResume=false finishing=false
+        keysPaused=false inHistory=true launchMode=2
+        fullscreen=true visible=false frozenBeforeDestroy=false thumbnailNeeded=false idle=true
+  * TaskRecord{40575ce8 #6 A android.task.mms}
+    clearOnBackground=false numActivities=1 rootWasReset=true
+    affinity=android.task.mms
+    intent={act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.android.mms/.ui.ConversationList}
+    realActivity=com.android.mms/.ui.ConversationList
+    lastActiveTime=789232 (inactive for 596s)
+    * Hist #2: HistoryRecord{408585c0 com.android.mms/.ui.ConversationList}
+        packageName=com.android.mms processName=com.android.mms
+        launchedFromUid=10038 app=ProcessRecord{4076d0e0 2755:com.android.mms/10020}
+        Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.android.mms/.ui.ConversationList }
+        frontOfTask=true task=TaskRecord{40575ce8 #6 A android.task.mms}
+        taskAffinity=android.task.mms
+        realActivity=com.android.mms/.ui.ConversationList
+        base=/system/app/Mms.apk/system/app/Mms.apk data=/data/data/com.android.mms
+        labelRes=0x7f08000d icon=0x7f020051 theme=0x0
+        stateNotNeeded=false componentSpecified=true isHomeActivity=false
+        configuration={ scale=1.0 imsi=0/0 loc=ru_RU touch=3 keys=1/1/2 nav=1/1 orien=1 layout=18 uiMode=17 seq=5}
+        launchFailed=false haveState=true icicle=Bundle[mParcelledData.dataSize=472]
+        state=STOPPED stopped=true delayedResume=false finishing=false
+        keysPaused=false inHistory=true launchMode=1
+        fullscreen=true visible=false frozenBeforeDestroy=false thumbnailNeeded=false idle=true
+  * TaskRecord{40894ac0 #5 A com.android.settings}
+    clearOnBackground=true numActivities=2 rootWasReset=true
+    affinity=com.android.settings
+    intent={act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.android.settings/.Settings}
+    realActivity=com.android.settings/.Settings
+    lastActiveTime=724670 (inactive for 661s)
+    * Hist #1: HistoryRecord{40a8b180 com.android.settings/.WirelessSettings}
+        packageName=com.android.settings processName=com.android.settings
+        launchedFromUid=1000 app=null
+        Intent { act=android.intent.action.MAIN cmp=com.android.settings/.WirelessSettings (has extras) }
+        frontOfTask=false task=TaskRecord{40894ac0 #5 A com.android.settings}
+        taskAffinity=null
+        realActivity=com.android.settings/.WirelessSettings
+        base=/system/app/Settings.apk/system/app/Settings.apk data=/data/data/com.android.settings
+        labelRes=0x7f0a00cb icon=0x7f02003f theme=0x0
+        stateNotNeeded=false componentSpecified=true isHomeActivity=false
+        configuration={ scale=1.0 imsi=0/0 loc=ru_RU touch=3 keys=1/1/2 nav=1/1 orien=1 layout=18 uiMode=17 seq=3}
+        launchFailed=false haveState=true icicle=Bundle[mParcelledData.dataSize=1548]
+        state=STOPPED stopped=true delayedResume=false finishing=false
+        keysPaused=false inHistory=true launchMode=0
+        fullscreen=true visible=false frozenBeforeDestroy=false thumbnailNeeded=false idle=true
+    * Hist #0: HistoryRecord{40917ae8 com.android.settings/.Settings}
+        packageName=com.android.settings processName=com.android.settings
+        launchedFromUid=10038 app=null
+        Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.android.settings/.Settings }
+        frontOfTask=true task=TaskRecord{40894ac0 #5 A com.android.settings}
+        taskAffinity=com.android.settings
+        realActivity=com.android.settings/.Settings
+        base=/system/app/Settings.apk/system/app/Settings.apk data=/data/data/com.android.settings
+        labelRes=0x7f0a00c4 icon=0x7f02003f theme=0x0
+        stateNotNeeded=false componentSpecified=true isHomeActivity=false
+        configuration={ scale=1.0 imsi=0/0 loc=ru_RU touch=3 keys=1/1/2 nav=1/1 orien=1 layout=18 uiMode=17 seq=3}
+        launchFailed=false haveState=true icicle=Bundle[mParcelledData.dataSize=1548]
+        state=STOPPED stopped=true delayedResume=false finishing=false
+        keysPaused=false inHistory=true launchMode=1
+        fullscreen=true visible=false frozenBeforeDestroy=false thumbnailNeeded=false idle=true
+ 
+  Running activities (most recent first):
+    TaskRecord{4091c558 #7 A com.drweb.pro.market}
+      Run #2: HistoryRecord{40992000 com.drweb.pro.market/com.drweb.activities.DrWebAntivirus}
+    TaskRecord{408a10a8 #2 A com.lge.launcher}
+      Run #1: HistoryRecord{407afbc0 com.lge.launcher/.Launcher}
+    TaskRecord{40575ce8 #6 A android.task.mms}
+      Run #0: HistoryRecord{408585c0 com.android.mms/.ui.ConversationList}
+ 
+  mPausingActivity: null
+  mResumedActivity: HistoryRecord{40992000 com.drweb.pro.market/com.drweb.activities.DrWebAntivirus}
+  mFocusedActivity: HistoryRecord{40992000 com.drweb.pro.market/com.drweb.activities.DrWebAntivirus}
+  mLastPausedActivity: HistoryRecord{409bb828 com.drweb.pro.market/com.drweb.activities.DialogSelectorActivity}
+ 
+  mCurTask: 7
+ 
+  Running processes (most recent first):
+    Proc # 0: adj=fore /F 4086dc30 1898:com.lge.providers.flex/1000 (provider)
+              com.lge.providers.flex/.FlexProvider<=Proc{40797e98 1713:com.android.phone/1001}
+    Proc # 1: adj=bak  /B 4059b780 1767:android.process.media/10006 (bg-empty)
+    Proc # 2: adj=bak  /B 407b3080 1831:android.process.acore/10027 (bg-empty)
+    PERS # 3: adj=core /F 40797e98 1713:com.android.phone/1001 (fixed)
+    Proc # 4: adj=vis  /F 406fc710 1693:com.lge.android.hime/10031 (service)
+              com.lge.android.hime/.HIME<=Proc{406f04e0 1609:system/1000}
+    Proc # 5: adj=vis  /F 4097c7a0 2566:com.google.process.gapps/10009 (service)
+              com.google.android.location/.NetworkLocationService<=Proc{406f04e0 1609:system/1000}
+    PERS # 6: adj=sys  /F 406f04e0 1609:system/1000 (fixed)
+    Proc # 7: adj=fore /F 409aeed0 2991:com.drweb.pro.market:monitor/10045 (service)
+              com.drweb.pro.market/com.drweb.antivirus.lib.monitor.MonitorService<=HistoryRecord{40992000 com.drweb.pro.market/com.drweb.activities.DrWebAntivirus}
+    Proc # 8: adj=fore /F 40937598 2982:com.drweb.pro.market/10045 (top-activity)
+    Proc # 9: adj=bak  /B 40922a28 2164:com.android.vending/10037 (bg-empty)
+    Proc #10: adj=bak+1/B 4084f608 2949:com.google.android.apps.docs/10065 (bg-empty)
+    Proc #11: adj=bak+1/B 40866b88 2310:com.google.android.googlequicksearchbox/10053 (bg-empty)
+    Proc #12: adj=svc  /B 409ac078 2576:com.google.android.gms/10009 (started-services)
+    Proc #13: adj=bak+1/B 4091e388 2940:com.lgerp.essential/10048 (bg-empty)
+    Proc #14: adj=bak+2/B 409b9e40 2931:com.svox.pico/10050 (bg-empty)
+    Proc #15: adj=bak+2/B 40939048 2367:com.google.android.apps.maps/10066 (bg-empty)
+    Proc #16: adj=bak+2/B 40a045a0 2924:com.google.android.partnersetup/10044 (bg-empty)
+    Proc #17: adj=bak+3/B 4084a520 2905:com.lge.sns/10018 (bg-empty)
+    Proc #18: adj=bak+3/B 409c3040 2559:com.rsupport.starter/1000 (bg-empty)
+    Proc #19: adj=bak+3/B 40965c50 2915:com.rsupport.rs.activity.lge/10019 (bg-empty)
+    Proc #20: adj=bak+4/B 40a3ce80 2894:com.android.defcontainer/10054 (bg-empty)
+    Proc #21: adj=home /B 407d4ec0 1734:android.process.lghome/10038 (home)
+    Proc #22: adj=bak+4/B 4076d0e0 2755:com.android.mms/10020 (bg-activities)
+    Proc #23: adj=svc  /B 407002e0 1787:com.lgerp.sns/10008 (started-services)
+    Proc #24: adj=svc  /B 4084a6e0 2045:com.lgerp.odnoklassniki/10000 (started-services)
+    Proc #25: adj=bak+4/B 407b6480 2765:com.android.protips/10015 (bg-empty)
+    Proc #26: adj=svc  /B 40938008 2631:com.mobileleader.sync/10057 (started-services)
+    Proc #27: adj=svc  /B 40959970 2695:com.google.android.gms.wearable/10009 (service)
+              com.google.android.gms/.wearable.service.WearableService<=Proc{4075ff10 2681:com.google.process.location/10009}
+    Proc #28: adj=svc  /B 4075ff10 2681:com.google.process.location/10009 (started-services)
+    Proc #29: adj=home /F 40992b08 2320:com.cooliris.media/10059 (home)
+    Proc #30: adj=svc  /B 40956500 2137:com.lge.simcontacts/1001 (started-services)
+    Proc #31: adj=vis  /F 407ba630 1751:com.android.music/10055 (service)
+              com.android.music/.MediaPlaybackService<=Proc{408c1908 1675:com.android.systemui/1000}
+    PERS #32: adj=core /F 407dfab8 1718:com.lge.omadmclient/5000 (fixed)
+    Proc #33: adj=svc  /B 40858930 2087:com.lge.omadmclient:remote/5000 (started-services)
+    Proc #34: adj=svc  /B 40786228 2080:com.lge.android.atservice/10032 (started-services)
+    Proc #35: adj=svc  /B 4088b7e8 1808:com.lge.drmservice/10030 (started-services)
+    PERS #36: adj=core /F 407d8b08 1717:com.lge.fmradio/10026 (fixed)
+    PERS #37: adj=core /F 4076ee70 1719:com.broadcom.bt.app.system/1002 (fixed)
+    PERS #38: adj=core /F 408c1908 1675:com.android.systemui/1000 (fixed)
+ 
+  PID mappings:
+    PID #1609: ProcessRecord{406f04e0 1609:system/1000}
+    PID #1675: ProcessRecord{408c1908 1675:com.android.systemui/1000}
+    PID #1693: ProcessRecord{406fc710 1693:com.lge.android.hime/10031}
+    PID #1713: ProcessRecord{40797e98 1713:com.android.phone/1001}
+    PID #1717: ProcessRecord{407d8b08 1717:com.lge.fmradio/10026}
+    PID #1718: ProcessRecord{407dfab8 1718:com.lge.omadmclient/5000}
+    PID #1719: ProcessRecord{4076ee70 1719:com.broadcom.bt.app.system/1002}
+    PID #1734: ProcessRecord{407d4ec0 1734:android.process.lghome/10038}
+    PID #1751: ProcessRecord{407ba630 1751:com.android.music/10055}
+    PID #1767: ProcessRecord{4059b780 1767:android.process.media/10006}
+    PID #1787: ProcessRecord{407002e0 1787:com.lgerp.sns/10008}
+    PID #1808: ProcessRecord{4088b7e8 1808:com.lge.drmservice/10030}
+    PID #1831: ProcessRecord{407b3080 1831:android.process.acore/10027}
+    PID #1898: ProcessRecord{4086dc30 1898:com.lge.providers.flex/1000}
+    PID #2045: ProcessRecord{4084a6e0 2045:com.lgerp.odnoklassniki/10000}
+    PID #2080: ProcessRecord{40786228 2080:com.lge.android.atservice/10032}
+    PID #2087: ProcessRecord{40858930 2087:com.lge.omadmclient:remote/5000}
+    PID #2137: ProcessRecord{40956500 2137:com.lge.simcontacts/1001}
+    PID #2164: ProcessRecord{40922a28 2164:com.android.vending/10037}
+    PID #2310: ProcessRecord{40866b88 2310:com.google.android.googlequicksearchbox/10053}
+    PID #2320: ProcessRecord{40992b08 2320:com.cooliris.media/10059}
+    PID #2367: ProcessRecord{40939048 2367:com.google.android.apps.maps/10066}
+    PID #2559: ProcessRecord{409c3040 2559:com.rsupport.starter/1000}
+    PID #2566: ProcessRecord{4097c7a0 2566:com.google.process.gapps/10009}
+    PID #2576: ProcessRecord{409ac078 2576:com.google.android.gms/10009}
+    PID #2631: ProcessRecord{40938008 2631:com.mobileleader.sync/10057}
+    PID #2681: ProcessRecord{4075ff10 2681:com.google.process.location/10009}
+    PID #2695: ProcessRecord{40959970 2695:com.google.android.gms.wearable/10009}
+    PID #2755: ProcessRecord{4076d0e0 2755:com.android.mms/10020}
+    PID #2765: ProcessRecord{407b6480 2765:com.android.protips/10015}
+    PID #2894: ProcessRecord{40a3ce80 2894:com.android.defcontainer/10054}
+    PID #2905: ProcessRecord{4084a520 2905:com.lge.sns/10018}
+    PID #2915: ProcessRecord{40965c50 2915:com.rsupport.rs.activity.lge/10019}
+    PID #2924: ProcessRecord{40a045a0 2924:com.google.android.partnersetup/10044}
+    PID #2931: ProcessRecord{409b9e40 2931:com.svox.pico/10050}
+    PID #2940: ProcessRecord{4091e388 2940:com.lgerp.essential/10048}
+    PID #2949: ProcessRecord{4084f608 2949:com.google.android.apps.docs/10065}
+    PID #2982: ProcessRecord{40937598 2982:com.drweb.pro.market/10045}
+    PID #2991: ProcessRecord{409aeed0 2991:com.drweb.pro.market:monitor/10045}
+ 
+  mHomeProcess: ProcessRecord{407d4ec0 1734:android.process.lghome/10038}
+  mConfiguration: { scale=1.0 imsi=0/0 loc=ru_RU touch=3 keys=1/1/2 nav=1/1 orien=2 layout=18 uiMode=17 seq=8}
+  mConfigWillChange: false
+  mSleeping=false mShuttingDown=false

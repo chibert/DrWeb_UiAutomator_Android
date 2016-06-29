@@ -1,0 +1,924 @@
+Applications Graphics Acceleration Info:
+Uptime: 27480577 Realtime: 178678232
+
+** Graphics info for pid 879 [com.yandex.launcher] **
+
+Recent DisplayList operations
+        DrawDisplayList
+          DrawDisplayList
+            DrawRoundRect
+            DrawDisplayList
+              SetupColorFilter
+              DrawBitmap
+              ResetColorFilter
+        DrawDisplayList
+        DrawDisplayList
+      DrawDisplayList
+      DrawDisplayList
+    DrawPatch
+DrawPatch
+DrawBitmapRect
+DrawBitmapRect
+DrawBitmapRect
+DrawBitmap
+DrawBitmap
+multiDraw
+  DrawText
+DrawBitmap
+DrawText
+DrawRect
+DrawBitmapRect
+DrawBitmap
+DrawText
+DrawRect
+DrawBitmapRect
+DrawBitmapRect
+DrawBitmapRect
+DrawBitmapRect
+DrawBitmapRect
+DrawBitmap
+DrawBitmap
+DrawBitmap
+DrawBitmap
+DrawBitmap
+DrawBitmap
+DrawBitmap
+DrawText
+multiDraw
+  DrawText
+DrawLayer
+DrawBitmap
+DrawBitmap
+DrawBitmap
+DrawLayer
+DrawRoundRect
+DrawBitmap
+DrawPatch
+
+Caches:
+Current memory usage / total memory usage (bytes):
+  TextureCache           876068 /  9437184
+  LayerCache            1196032 /  6291456
+  RenderBufferCache           0 /  1048576
+  GradientCache               0 /   524288
+  PathCache                   0 /  1572864
+  TextDropShadowCache     64864 /  1048576
+  PatchCache                704 /   131072
+  FontRenderer 0 A8      524288 /   524288
+  FontRenderer 0 RGBA         0 /        0
+  FontRenderer 0 total   524288 /   524288
+Other:
+  FboCache                   14 /       16
+Total memory usage:
+  2661956 bytes, 2.54 MB
+
+Profile data in ms:
+
+	com.yandex.launcher/com.yandex.launcher.Launcher/android.view.ViewRootImpl@428cb298
+View hierarchy:
+
+  com.yandex.launcher/com.yandex.launcher.Launcher/android.view.ViewRootImpl@428cb298
+  791 views, 11.45 kB of display lists, 1079 frames rendered
+
+
+Total ViewRootImpl: 1
+Total Views:        791
+Total DisplayList:  11.45 kB
+
+
+** Graphics info for pid 18101 [com.android.settings] **
+
+Recent DisplayList operations
+                ClipRect
+                DrawDisplayList
+                  Save
+                  ClipRect
+                  DrawText
+                  RestoreToCount
+                DrawDisplayList
+                  Save
+                  ClipRect
+                  DrawText
+                  RestoreToCount
+                RestoreToCount
+              DrawDisplayList
+                DrawDisplayList
+                  Save
+                  ClipRect
+                  Translate
+                  RestoreToCount
+                  DrawBitmap
+              RestoreToCount
+            RestoreToCount
+  DrawDisplayList
+    DrawPatch
+    DrawDisplayList
+      DrawDisplayList
+        DrawDisplayList
+          DrawDisplayList
+            Save
+            ConcatMatrix
+            DrawBitmap
+            RestoreToCount
+        DrawDisplayList
+          Save
+          ClipRect
+          DrawDisplayList
+            Save
+            ClipRect
+            DrawText
+            RestoreToCount
+          RestoreToCount
+DrawRect
+multiDraw
+  DrawPatch
+DrawPatch
+multiDraw
+  DrawText
+DrawText
+multiDraw
+  DrawBitmap
+DrawBitmap
+
+Caches:
+Current memory usage / total memory usage (bytes):
+  TextureCache                0 /  9437184
+  LayerCache                  0 /  6291456
+  RenderBufferCache           0 /  1048576
+  GradientCache               0 /   524288
+  PathCache                   0 /  1572864
+  TextDropShadowCache         0 /  1048576
+  PatchCache                832 /   131072
+  FontRenderer 0 A8      524288 /   524288
+  FontRenderer 0 RGBA         0 /        0
+  FontRenderer 0 total   524288 /   524288
+Other:
+  FboCache                    0 /       16
+Total memory usage:
+  525120 bytes, 0.50 MB
+
+Profile data in ms:
+
+	com.android.settings/com.sprd.settings.SprdUsbSettings/android.view.ViewRootImpl@41f4c678
+View hierarchy:
+
+  com.android.settings/com.sprd.settings.SprdUsbSettings/android.view.ViewRootImpl@41f4c678
+  58 views, 0.00 kB of display lists, 19 frames rendered
+
+
+Total ViewRootImpl: 1
+Total Views:        58
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 7413 [com.estrongs.android.pop] **
+
+Recent DisplayList operations
+DrawDisplayList
+  Save
+  ClipRect
+  DrawDisplayList
+  RestoreToCount
+DrawDisplayList
+  Save
+  ClipRect
+  DrawDisplayList
+  RestoreToCount
+DrawDisplayList
+  Save
+  ClipRect
+  DrawDisplayList
+  RestoreToCount
+DrawDisplayList
+  Save
+  ClipRect
+  DrawDisplayList
+  RestoreToCount
+DrawDisplayList
+  Save
+  ClipRect
+  DrawDisplayList
+  RestoreToCount
+DrawDisplayList
+  Save
+  ClipRect
+  DrawDisplayList
+  RestoreToCount
+DrawDisplayList
+  Save
+  ClipRect
+  DrawDisplayList
+  RestoreToCount
+DrawDisplayList
+  Save
+  ClipRect
+  DrawDisplayList
+  RestoreToCount
+DrawDisplayList
+  Save
+  ClipRect
+  DrawDisplayList
+  RestoreToCount
+DrawDisplayList
+  Save
+  ClipRect
+  DrawDisplayList
+  RestoreToCount
+
+Caches:
+Current memory usage / total memory usage (bytes):
+  TextureCache                0 /  9437184
+  LayerCache                  0 /  6291456
+  RenderBufferCache           0 /  1048576
+  GradientCache               0 /   524288
+  PathCache                   0 /  1572864
+  TextDropShadowCache         0 /  1048576
+  PatchCache                  0 /   131072
+  FontRenderer 0 A8           0 /        0
+  FontRenderer 0 RGBA         0 /        0
+  FontRenderer 0 total        0 /        0
+Other:
+  FboCache                    0 /       16
+Total memory usage:
+  0 bytes, 0.00 MB
+
+Profile data in ms:
+
+	com.estrongs.android.pop/com.estrongs.android.pop.view.FileExplorerActivity/android.view.ViewRootImpl@421d04c0
+View hierarchy:
+
+  com.estrongs.android.pop/com.estrongs.android.pop.view.FileExplorerActivity/android.view.ViewRootImpl@421d04c0
+  601 views, 0.00 kB of display lists, 282 frames rendered
+
+
+Total ViewRootImpl: 1
+Total Views:        601
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 18033 [com.yandex.launcher:Metrica] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 17231 [com.android.dialer] **
+
+Recent DisplayList operations
+                        ConcatMatrix
+                        DrawBitmap
+                        RestoreToCount
+                    RestoreToCount
+                  RestoreToCount
+        DrawDisplayList
+          DrawRect
+        DrawDisplayList
+          DrawRect
+          DrawDisplayList
+            Save
+            ConcatMatrix
+            DrawBitmap
+            RestoreToCount
+          DrawDisplayList
+            Save
+            ConcatMatrix
+            DrawBitmap
+            RestoreToCount
+          DrawDisplayList
+            Save
+            ConcatMatrix
+            DrawBitmap
+            RestoreToCount
+DrawRect
+DrawRect
+DrawRect
+DrawRect
+DrawRect
+DrawRect
+DrawBitmapRect
+DrawBitmap
+DrawText
+DrawPatch
+DrawBitmap
+DrawBitmap
+DrawBitmap
+DrawPatch
+DrawText
+DrawText
+DrawRect
+DrawRect
+DrawBitmap
+DrawBitmapRect
+DrawBitmap
+DrawBitmap
+DrawBitmap
+DrawBitmap
+multiDraw
+  DrawText
+
+Caches:
+Current memory usage / total memory usage (bytes):
+  TextureCache                0 /  9437184
+  LayerCache                  0 /  6291456
+  RenderBufferCache           0 /  1048576
+  GradientCache               0 /   524288
+  PathCache                   0 /  1572864
+  TextDropShadowCache         0 /  1048576
+  PatchCache                  0 /   131072
+  FontRenderer 0 A8           0 /        0
+  FontRenderer 0 RGBA         0 /        0
+  FontRenderer 0 total        0 /        0
+Other:
+  FboCache                    0 /       16
+Total memory usage:
+  0 bytes, 0.00 MB
+
+Profile data in ms:
+
+	com.android.dialer/com.android.dialer.DialtactsActivity/android.view.ViewRootImpl@41f1c7f8
+View hierarchy:
+
+  com.android.dialer/com.android.dialer.DialtactsActivity/android.view.ViewRootImpl@41f1c7f8
+  232 views, 0.00 kB of display lists, 92 frames rendered
+
+
+Total ViewRootImpl: 1
+Total Views:        232
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 1164 [ru.yandex.disk] **
+
+Recent DisplayList operations
+                    DrawDisplayList
+                      Save
+                      ConcatMatrix
+                      DrawBitmap
+                      RestoreToCount
+            RestoreToCount
+      DrawDisplayList
+        DrawRect
+        DrawDisplayList
+          DrawDisplayList
+            Save
+            ClipRect
+            DrawText
+            RestoreToCount
+          DrawDisplayList
+            Save
+            ConcatMatrix
+            DrawBitmap
+            RestoreToCount
+          DrawDisplayList
+            DrawDisplayList
+              DrawDisplayList
+                DrawDisplayList
+                  Save
+                  ConcatMatrix
+                  DrawBitmap
+                  RestoreToCount
+            DrawDisplayList
+              Save
+              Translate
+              ConcatMatrix
+              DrawBitmap
+              RestoreToCount
+  RestoreToCount
+DrawRect
+DrawRect
+DrawRect
+DrawRect
+DrawBitmap
+DrawBitmap
+DrawBitmap
+DrawBitmap
+DrawBitmapRect
+DrawBitmap
+DrawBitmap
+DrawBitmap
+DrawBitmap
+multiDraw
+  DrawText
+DrawText
+
+Caches:
+Current memory usage / total memory usage (bytes):
+  TextureCache                0 /  9437184
+  LayerCache                  0 /  6291456
+  RenderBufferCache           0 /  1048576
+  GradientCache               0 /   524288
+  PathCache                   0 /  1572864
+  TextDropShadowCache         0 /  1048576
+  PatchCache                  0 /   131072
+  FontRenderer 0 A8           0 /        0
+  FontRenderer 0 RGBA         0 /        0
+  FontRenderer 0 total        0 /        0
+Other:
+  FboCache                    0 /       16
+Total memory usage:
+  0 bytes, 0.00 MB
+
+Profile data in ms:
+
+	ru.yandex.disk/ru.yandex.mail.disk.DiskActivity2/android.view.ViewRootImpl@4266f488
+View hierarchy:
+
+  ru.yandex.disk/ru.yandex.mail.disk.DiskActivity2/android.view.ViewRootImpl@4266f488
+  85 views, 0.00 kB of display lists, 536 frames rendered
+
+
+Total ViewRootImpl: 1
+Total Views:        85
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 19134 [com.android.deskclock] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 19103 [com.google.android.talk] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 18395 [com.google.android.gms] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 30718 [com.google.process.gapps] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 850 [com.google.android.gms.persistent] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 17632 [android.process.media] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 18754 [com.facebook.katana] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 18992 [ru.yandex.disk:aviary_cds] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 19010 [ru.yandex.disk:Metrica] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 18976 [com.android.chrome] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 18327 [com.google.android.apps.plus] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 1233 [com.jrdcom.weather] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 18795 [com.google.android.apps.docs] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 16140 [android.process.acore] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 18782 [com.android.externalstorage] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 18769 [com.android.documentsui] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 18447 [com.android.vending] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 18711 [com.facebook.katana:dash] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 18622 [com.yandex.browser.beta] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 18647 [com.yandex.browser.beta:Metrica] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 18531 [com.yandex.browser] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 32209 [com.tcl.live] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 807 [com.android.incallui] **
+
+Recent DisplayList operations
+SetupShader
+DrawRect
+ResetShader
+DrawDisplayList
+  Save
+  ClipRect
+  DrawDisplayList
+    DrawDisplayList
+      DrawDisplayList
+        DrawDisplayList
+          DrawDisplayList
+            DrawDisplayList
+              DrawDisplayList
+                Save
+                ConcatMatrix
+                DrawBitmap
+                RestoreToCount
+              DrawDisplayList
+                DrawDisplayList
+                  DrawRect
+                  Save
+                  ClipRect
+                  DrawDisplayList
+                    Save
+                    ClipRect
+                    DrawText
+                    RestoreToCount
+                  DrawDisplayList
+                    Save
+                    ClipRect
+                    DrawDisplayList
+                      Save
+                      ClipRect
+                      DrawText
+                      RestoreToCount
+                    DrawDisplayList
+                      Save
+                      ClipRect
+                      DrawText
+                      RestoreToCount
+                    RestoreToCount
+                  RestoreToCount
+                DrawDisplayList
+                  DrawRect
+        DrawDisplayList
+  RestoreToCount
+DrawRect
+DrawBitmap
+DrawRect
+DrawRect
+
+Caches:
+Current memory usage / total memory usage (bytes):
+  TextureCache           404976 /  9437184
+  LayerCache                  0 /  6291456
+  RenderBufferCache           0 /  1048576
+  GradientCache               0 /   524288
+  PathCache                   0 /  1572864
+  TextDropShadowCache         0 /  1048576
+  PatchCache                  0 /   131072
+  FontRenderer 0 A8      524288 /   524288
+  FontRenderer 0 RGBA         0 /        0
+  FontRenderer 0 total   524288 /   524288
+Other:
+  FboCache                    0 /       16
+Total memory usage:
+  929264 bytes, 0.89 MB
+
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 837 [com.touchtype.swiftkey] **
+Profile data in ms:
+
+	InputMethod/android.view.ViewRootImpl@421c9280
+View hierarchy:
+
+  InputMethod/android.view.ViewRootImpl@421c9280
+  10 views, 0.00 kB of display lists
+
+
+Total ViewRootImpl: 1
+Total Views:        10
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 16418 [com.android.inputmethod.latin] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 32185 [com.tcl.live:miniapp] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 865 [com.google.process.location] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 638 [com.android.systemui] **
+
+Recent DisplayList operations
+                    DrawBitmap
+                  DrawDisplayList
+                    Save
+                    ConcatMatrix
+                    DrawBitmap
+                    RestoreToCount
+            DrawDisplayList
+              DrawDisplayList
+                DrawDisplayList
+                  DrawDisplayList
+                    DrawBitmapRect
+                DrawDisplayList
+                  DrawDisplayList
+                    DrawBitmap
+                  DrawDisplayList
+                    Save
+                    ConcatMatrix
+                    DrawBitmap
+                    RestoreToCount
+        DrawDisplayList
+          Save
+          ClipRect
+          DrawText
+          RestoreToCount
+        DrawDisplayList
+          DrawBitmap
+      DrawDisplayList
+        Save
+        ClipRect
+        Translate
+        DrawText
+        RestoreToCount
+    RestoreToCount
+DrawDisplayList
+DrawPatch
+multiDraw
+  DrawBitmap
+DrawBitmap
+DrawBitmap
+DrawBitmap
+DrawBitmap
+DrawBitmapRect
+DrawBitmapRect
+multiDraw
+  DrawBitmap
+DrawBitmap
+DrawBitmap
+DrawBitmap
+DrawText
+DrawText
+
+Caches:
+Current memory usage / total memory usage (bytes):
+  TextureCache            71604 /  9437184
+  LayerCache             196608 /  6291456
+  RenderBufferCache           0 /  1048576
+  GradientCache               0 /   524288
+  PathCache                   0 /  1572864
+  TextDropShadowCache         0 /  1048576
+  PatchCache                  0 /   131072
+  FontRenderer 0 A8      524288 /   524288
+  FontRenderer 0 RGBA         0 /        0
+  FontRenderer 0 total   524288 /   524288
+Other:
+  FboCache                    2 /       16
+Total memory usage:
+  792500 bytes, 0.76 MB
+
+Profile data in ms:
+
+	StatusBar/android.view.ViewRootImpl@41fc9598
+	Keyguard/android.view.ViewRootImpl@41f91680
+View hierarchy:
+
+  StatusBar/android.view.ViewRootImpl@41fc9598
+  285 views, 3.96 kB of display lists, 27953 frames rendered
+
+  Keyguard/android.view.ViewRootImpl@41f91680
+  1 views, 0.00 kB of display lists
+
+
+Total ViewRootImpl: 2
+Total Views:        286
+Total DisplayList:  3.96 kB
+
+
+** Graphics info for pid 651 [com.android.phone] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 570 [system] **
+Profile data in ms:
+
+	KeyguardScrim/android.view.ViewRootImpl@424708a8
+View hierarchy:
+
+  KeyguardScrim/android.view.ViewRootImpl@424708a8
+  1 views, 0.00 kB of display lists
+
+
+Total ViewRootImpl: 1
+Total Views:        1
+Total DisplayList:  0.00 kB
+

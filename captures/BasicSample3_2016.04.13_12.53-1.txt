@@ -1,0 +1,817 @@
+AGGREGATED OVER LAST 24 HOURS:
+  * com.yandex.launcher / u0a159:
+           TOTAL: 100% (4.7MB-26MB-58MB/4.3MB-40MB-75MB over 101)
+             Top: 55% (9.8MB-29MB-53MB/9.5MB-45MB-66MB over 60)
+          Imp Fg: 45% (4.7MB-21MB-58MB/4.3MB-34MB-75MB over 41)
+         Service: 0.05%
+  * system / 1000:
+           TOTAL: 100% (19MB-28MB-98MB/18MB-31MB-100MB over 60)
+      Persistent: 100% (19MB-28MB-98MB/18MB-31MB-100MB over 60)
+  * com.google.process.location / u0a27:
+           TOTAL: 100% (47KB-428KB-1.1MB/4.0KB-3.1MB-6.2MB over 59)
+          Imp Fg: 100% (47KB-428KB-1.1MB/4.0KB-3.1MB-6.2MB over 59)
+  * ru.yandex.disk / u0a85:
+           TOTAL: 100% (134KB-8.6MB-16MB/4.0KB-16MB-20MB over 56)
+         Service: 100% (134KB-8.6MB-16MB/4.0KB-16MB-20MB over 56)
+  * com.android.incallui / u0a12:
+           TOTAL: 100% (43KB-562KB-8.7MB/4.0KB-4.6MB-9.6MB over 59)
+          Imp Bg: 100% (43KB-562KB-8.7MB/4.0KB-4.6MB-9.6MB over 59)
+  * com.android.phone / 1001:
+           TOTAL: 100% (1.5MB-5.0MB-10MB/1.2MB-6.1MB-13MB over 60)
+      Persistent: 100% (1.5MB-5.0MB-10MB/1.2MB-6.1MB-13MB over 60)
+  * com.android.systemui / u0a35:
+           TOTAL: 100% (6.4MB-12MB-15MB/6.7MB-16MB-25MB over 60)
+      Persistent: 100% (6.4MB-12MB-15MB/6.7MB-16MB-25MB over 60)
+  * com.jrdcom.weather / u0a69:
+           TOTAL: 100% (185KB-2.7MB-4.7MB/1.3MB-3.8MB-5.5MB over 56)
+         Service: 100% (185KB-2.7MB-4.7MB/1.3MB-3.8MB-5.5MB over 56)
+  * com.touchtype.swiftkey / u0a70:
+           TOTAL: 100% (2.7MB-11MB-16MB/4.1MB-22MB-30MB over 58)
+          Imp Fg: 100% (2.7MB-11MB-16MB/4.1MB-22MB-30MB over 58)
+  * com.google.android.gms.persistent / u0a27:
+           TOTAL: 100% (1.4MB-10MB-15MB/2.7MB-14MB-16MB over 57)
+          Imp Fg: 34% (2.8MB-11MB-14MB/7.2MB-14MB-16MB over 15)
+          Imp Bg: 66% (1.4MB-10MB-15MB/2.7MB-14MB-16MB over 42)
+  * com.tcl.live:miniapp / u0a3:
+           TOTAL: 100% (57KB-592KB-5.7MB/4.0KB-3.2MB-6.5MB over 56)
+         Service: 100% (57KB-592KB-5.7MB/4.0KB-3.2MB-6.5MB over 56)
+      Service Rs: 0.12%
+  * com.tcl.live / u0a3:
+           TOTAL: 100% (174KB-1.9MB-8.1MB/4.0KB-4.7MB-7.6MB over 55)
+         Service: 100% (174KB-1.9MB-8.1MB/4.0KB-4.7MB-7.6MB over 55)
+      Service Rs: 0.23%
+  * com.google.process.gapps / u0a27:
+           TOTAL: 100% (591KB-6.9MB-12MB/2.1MB-9.7MB-12MB over 86)
+          Imp Fg: 0.54% (9.2MB-9.4MB-9.5MB/8.1MB-8.2MB-8.2MB over 2)
+          Imp Bg: 0.54% (8.0MB-8.1MB-8.2MB/7.1MB-7.2MB-7.3MB over 2)
+          Backup: 0.00%
+         Service: 99% (591KB-6.8MB-12MB/2.1MB-9.8MB-12MB over 82)
+      Service Rs: 0.02%
+  * android.process.acore / u0a0:
+           TOTAL: 100% (224KB-5.0MB-58MB/4.0KB-19MB-64MB over 60)
+          Imp Fg: 10% (2.4MB-4.7MB-7.9MB/1.8MB-5.4MB-8.8MB over 7)
+          Imp Bg: 0.04%
+         Service: 90% (224KB-5.1MB-58MB/4.0KB-20MB-64MB over 53)
+      Service Rs: 0.04%
+  * android.process.media / u0a13:
+           TOTAL: 100% (210KB-1.9MB-5.1MB/4.0KB-3.5MB-5.1MB over 56)
+          Imp Fg: 0.46% (1.7MB-1.7MB-1.7MB/4.9MB-4.9MB-4.9MB over 1)
+          Imp Bg: 0.03%
+         Service: 99% (210KB-1.9MB-5.1MB/4.0KB-3.4MB-5.1MB over 55)
+  * com.yandex.launcher:Metrica / u0a159:
+           TOTAL: 46% (3.3MB-5.2MB-8.2MB/3.3MB-5.2MB-7.0MB over 47)
+             Top: 40% (3.3MB-5.2MB-8.2MB/3.3MB-5.2MB-7.0MB over 46)
+          Imp Fg: 5.6% (5.5MB-5.5MB-5.5MB/5.4MB-5.4MB-5.4MB over 1)
+         Service: 0.05%
+        (Cached): 33% (228KB-1.6MB-5.1MB/8.0KB-3.8MB-5.1MB over 15)
+  * com.google.android.gms / u0a27:
+           TOTAL: 43% (2.0MB-9.2MB-22MB/2.0MB-14MB-23MB over 45)
+             Top: 18% (2.5MB-8.9MB-15MB/2.0MB-14MB-18MB over 25)
+          Imp Fg: 20% (2.0MB-9.4MB-22MB/4.7MB-15MB-23MB over 15)
+          Imp Bg: 0.71% (2.8MB-10.0MB-16MB/2.5MB-8.8MB-15MB over 5)
+         Service: 3.1%
+      Service Rs: 0.01%
+        Receiver: 0.20%
+        (Cached): 57% (726KB-8.9MB-33MB/300KB-12MB-31MB over 42)
+  * com.drweb.pro.market:monitor / u0a192:
+           TOTAL: 34% (270KB-2.7MB-7.8MB/160KB-5.7MB-7.7MB over 34)
+             Top: 10% (573KB-2.7MB-5.9MB/5.4MB-6.0MB-7.0MB over 16)
+          Imp Fg: 24% (270KB-2.7MB-7.8MB/160KB-5.5MB-7.7MB over 18)
+         Service: 0.07%
+      Service Rs: 0.02%
+  * com.drweb.pro.market / u0a192:
+           TOTAL: 32% (0.92MB-7.6MB-16MB/752KB-11MB-15MB over 32)
+             Top: 10% (2.1MB-10MB-16MB/11MB-13MB-15MB over 17)
+          Imp Fg: 0.02%
+         Service: 21% (0.92MB-4.3MB-8.8MB/752KB-8.9MB-15MB over 15)
+      Service Rs: 0.01%
+        Receiver: 0.01%
+        (Cached): 0.07%
+  * com.drweb.pro.market / u0a194:
+           TOTAL: 27% (3.9MB-8.7MB-17MB/2.9MB-12MB-33MB over 37)
+             Top: 17% (3.9MB-9.1MB-17MB/2.9MB-10MB-15MB over 29)
+          Imp Fg: 10% (4.2MB-7.0MB-10MB/4.7MB-19MB-33MB over 8)
+  * com.drweb.pro.market:Metrica / u0a194:
+           TOTAL: 27% (187KB-1.1MB-6.5MB/4.0KB-2.8MB-5.3MB over 37)
+             Top: 17% (212KB-1.2MB-6.5MB/4.0KB-2.6MB-4.8MB over 29)
+          Imp Fg: 10% (187KB-643KB-0.95MB/8.0KB-3.8MB-5.3MB over 8)
+  * com.drweb.pro.market:monitor / u0a194:
+           TOTAL: 27% (129KB-1.4MB-6.8MB/4.0KB-3.5MB-6.4MB over 39)
+             Top: 17% (547KB-1.7MB-6.8MB/160KB-3.2MB-6.0MB over 31)
+          Imp Fg: 10% (129KB-280KB-535KB/4.0KB-4.5MB-6.4MB over 8)
+         Service: 0.01%
+      Service Rs: 0.00%
+  * com.android.inputmethod.latin / u0a2:
+           TOTAL: 24% (171KB-1.1MB-4.2MB/4.0KB-1.7MB-3.3MB over 21)
+         Service: 24% (171KB-1.1MB-4.2MB/4.0KB-1.7MB-3.3MB over 21)
+        Receiver: 0.00%
+        (Cached): 0.46% (3.9MB-3.9MB-3.9MB/2.6MB-2.7MB-2.8MB over 2)
+  * com.drweb.pro.market:monitor / u0a191:
+           TOTAL: 17% (1.4MB-2.8MB-6.4MB/5.7MB-5.8MB-5.8MB over 4)
+             Top: 0.39%
+          Imp Fg: 17% (1.4MB-2.8MB-6.4MB/5.7MB-5.8MB-5.8MB over 4)
+      Service Rs: 0.00%
+  * com.android.dialer / u0a12:
+           TOTAL: 9.9% (761KB-5.6MB-10MB/272KB-9.5MB-11MB over 13)
+             Top: 9.9% (761KB-5.6MB-10MB/272KB-9.5MB-11MB over 13)
+          Imp Bg: 0.02%
+      (Last Act): 0.07%
+        (Cached): 9.2% (423KB-780KB-1.2MB/116KB-4.2MB-11MB over 3)
+  * com.whatsapp / u0a76:
+           TOTAL: 5.4% (2.3MB-8.9MB-15MB/1.8MB-7.9MB-13MB over 30)
+          Imp Fg: 0.05% (13MB-13MB-13MB/11MB-11MB-11MB over 1)
+         Service: 5.2% (2.3MB-8.8MB-15MB/1.8MB-7.8MB-13MB over 29)
+        Receiver: 0.10%
+        (Cached): 27% (1.5MB-7.0MB-15MB/7.0MB-7.9MB-13MB over 23)
+  * com.android.settings / 1000:
+           TOTAL: 3.7% (1.4MB-12MB-32MB/4.7MB-11MB-30MB over 8)
+             Top: 3.7% (1.4MB-12MB-32MB/4.7MB-11MB-30MB over 8)
+        Receiver: 0.03%
+      (Last Act): 8.2% (362KB-3.1MB-6.3MB/4.5MB-5.0MB-5.5MB over 5)
+        (Cached): 24% (257KB-3.2MB-17MB/16KB-6.2MB-17MB over 14)
+  * com.android.vending / u0a50:
+           TOTAL: 3.7% (4.8MB-10.0MB-13MB/4.5MB-8.4MB-11MB over 9)
+          Imp Fg: 0.05% (12MB-12MB-12MB/9.5MB-9.5MB-9.5MB over 1)
+          Imp Bg: 0.00%
+         Service: 3.5% (4.8MB-9.8MB-13MB/4.5MB-8.2MB-11MB over 8)
+      Service Rs: 0.01%
+        Receiver: 0.13%
+        (Cached): 81% (277KB-4.7MB-19MB/4.0KB-7.2MB-17MB over 55)
+  * com.drweb.pro.market / u0a191:
+           TOTAL: 3.7% (13MB-18MB-20MB/14MB-16MB-17MB over 3)
+             Top: 0.45% (20MB-20MB-20MB/16MB-17MB-17MB over 2)
+         Service: 3.2% (13MB-13MB-13MB/14MB-14MB-14MB over 1)
+  * com.drweb.pro.market / u0a190:
+           TOTAL: 3.0% (16MB-17MB-18MB/16MB-16MB-16MB over 3)
+             Top: 3.0% (16MB-17MB-18MB/16MB-16MB-16MB over 3)
+      Service Rs: 0.00%
+  * com.drweb.pro.market:monitor / u0a190:
+           TOTAL: 2.9% (7.7MB-8.4MB-9.1MB/5.8MB-6.1MB-6.6MB over 3)
+             Top: 2.9% (7.7MB-8.4MB-9.1MB/5.8MB-6.1MB-6.6MB over 3)
+      Service Rs: 0.00%
+  * com.android.defcontainer / u0a10:
+           TOTAL: 2.8% (496KB-496KB-496KB/1.9MB-1.9MB-1.9MB over 1)
+          Imp Fg: 2.8% (496KB-496KB-496KB/1.9MB-1.9MB-1.9MB over 1)
+         Service: 0.02%
+        (Cached): 41% (147KB-655KB-2.4MB/8.0KB-1.5MB-3.5MB over 26)
+  * com.facebook.katana / u0a77:
+           TOTAL: 2.8% (40MB-40MB-40MB/46MB-46MB-46MB over 1)
+             Top: 0.06%
+          Imp Fg: 0.01%
+         Service: 2.3% (40MB-40MB-40MB/46MB-46MB-46MB over 1)
+        Receiver: 0.38%
+        (Cached): 41% (2.2MB-22MB-51MB/7.4MB-34MB-53MB over 23)
+  * com.google.android.apps.plus / u0a60:
+           TOTAL: 1.3% (11MB-11MB-11MB/9.5MB-9.5MB-9.5MB over 1)
+          Imp Bg: 0.82% (11MB-11MB-11MB/9.5MB-9.5MB-9.5MB over 1)
+         Service: 0.20%
+      Service Rs: 0.04%
+        Receiver: 0.20%
+        (Cached): 93% (222KB-10MB-31MB/1.7MB-15MB-28MB over 63)
+  * com.google.android.googlequicksearchbox:search / u0a64:
+           TOTAL: 1.2%
+          Imp Fg: 0.01%
+         Service: 1.0%
+      Service Rs: 0.03%
+        Receiver: 0.14%
+        (Cached): 76% (323KB-9.3MB-31MB/100KB-17MB-29MB over 47)
+  * com.android.keychain / 1000:
+           TOTAL: 0.66%
+         Service: 0.21%
+        Receiver: 0.45%
+        (Cached): 3.4% (213KB-1.6MB-3.0MB/2.2MB-2.3MB-2.5MB over 4)
+  * com.google.android.gms:snet / u0a27:
+           TOTAL: 0.56% (14MB-14MB-14MB/12MB-12MB-12MB over 1)
+         Service: 0.56% (14MB-14MB-14MB/12MB-12MB-12MB over 1)
+      Service Rs: 0.00%
+        (Cached): 8.5% (671KB-1.1MB-2.3MB/420KB-4.3MB-6.0MB over 4)
+  * com.google.android.talk / u0a67:
+           TOTAL: 0.56%
+          Imp Bg: 0.00%
+         Service: 0.19%
+        Receiver: 0.36%
+        (Cached): 30% (382KB-9.4MB-23MB/4.0KB-11MB-22MB over 22)
+  * com.google.android.apps.docs / u0a38:
+           TOTAL: 0.50%
+          Imp Bg: 0.04%
+         Service: 0.10%
+        Receiver: 0.35%
+        (Cached): 25% (396KB-3.8MB-11MB/4.0KB-7.5MB-10MB over 18)
+  * com.facebook.katana:dash / u0a77:
+           TOTAL: 0.46%
+        Receiver: 0.46%
+        (Cached): 13% (3.8MB-18MB-26MB/2.4MB-17MB-21MB over 6)
+  * com.android.providers.calendar / u0a5:
+           TOTAL: 0.40% (3.5MB-3.5MB-3.5MB/3.0MB-3.0MB-3.0MB over 1)
+          Imp Bg: 0.04%
+         Service: 0.36% (3.5MB-3.5MB-3.5MB/3.0MB-3.0MB-3.0MB over 1)
+        Receiver: 0.00%
+        (Cached): 21% (362KB-2.6MB-4.0MB/4.0KB-2.1MB-2.9MB over 15)
+  * com.tcl.gc / u0a19:
+           TOTAL: 0.37%
+        Receiver: 0.37%
+        (Cached): 22% (0.98MB-10.0MB-19MB/3.6MB-11MB-15MB over 12)
+  * com.android.packageinstaller / u0a43:
+           TOTAL: 0.29% (3.4MB-3.4MB-3.4MB/5.5MB-5.5MB-5.5MB over 1)
+             Top: 0.21% (3.4MB-3.4MB-3.4MB/5.5MB-5.5MB-5.5MB over 1)
+          Imp Fg: 0.08%
+        (Cached): 0.47%
+  * com.yandex.browser / u0a118:
+           TOTAL: 0.28%
+         Service: 0.07%
+        Receiver: 0.20%
+        (Cached): 39% (743KB-2.7MB-6.4MB/400KB-5.0MB-7.1MB over 20)
+  * com.adups.fota.sysoper / 1000:
+           TOTAL: 0.26% (6.6MB-6.6MB-6.6MB/5.0MB-5.0MB-5.0MB over 1)
+         Service: 0.05% (6.6MB-6.6MB-6.6MB/5.0MB-5.0MB-5.0MB over 1)
+        Receiver: 0.21%
+  * com.android.launcher3 / u0a7:
+           TOTAL: 0.26%
+        Receiver: 0.26%
+        (Cached): 29% (346KB-2.7MB-4.2MB/2.6MB-3.2MB-4.2MB over 15)
+  * com.estrongs.android.pop / u0a131:
+           TOTAL: 0.25%
+             Top: 0.18%
+          Imp Fg: 0.01%
+         Service: 0.00%
+        Receiver: 0.05%
+        (Cached): 100% (336KB-6.5MB-23MB/96KB-19MB-31MB over 62)
+  * com.yandex.browser.beta / u0a105:
+           TOTAL: 0.24%
+         Service: 0.08%
+        Receiver: 0.16%
+        (Cached): 68% (514KB-3.1MB-9.7MB/412KB-5.8MB-7.7MB over 26)
+  * com.yandex.browser:Metrica / u0a118:
+           TOTAL: 0.19%
+         Service: 0.19%
+        Receiver: 0.01%
+        (Cached): 32% (0.00-2.0MB-3.9MB/0.00-4.3MB-5.9MB over 10)
+  * com.google.android.apps.magazines / u0a18:
+           TOTAL: 0.18%
+          Imp Bg: 0.01%
+         Service: 0.00%
+        Receiver: 0.17%
+        (Cached): 41% (274KB-2.3MB-8.7MB/4.0KB-4.1MB-7.8MB over 24)
+  * com.google.android.music:main / u0a39:
+           TOTAL: 0.14%
+          Imp Bg: 0.03%
+         Service: 0.07%
+        Receiver: 0.04%
+        (Cached): 17% (598KB-8.0MB-16MB/128KB-9.0MB-15MB over 11)
+  * com.google.android.gm / u0a57:
+           TOTAL: 0.12%
+             Top: 0.00%
+          Imp Bg: 0.09%
+          Backup: 0.01%
+         Service: 0.03%
+      Service Rs: 0.00%
+        Receiver: 0.00%
+        (Cached): 12% (430KB-7.7MB-18MB/4.0KB-8.5MB-16MB over 11)
+  * ru.yandex.disk:aviary_cds / u0a85:
+           TOTAL: 0.12%
+         Service: 0.05%
+        Receiver: 0.06%
+        (Cached): 32% (230KB-2.4MB-5.7MB/4.0KB-2.7MB-4.9MB over 26)
+  * com.yandex.browser.beta:Metrica / u0a105:
+           TOTAL: 0.12%
+         Service: 0.12%
+        Receiver: 0.00%
+        (Cached): 41% (562KB-2.4MB-6.6MB/308KB-3.6MB-6.1MB over 18)
+  * com.drweb.pro / u0a193:
+           TOTAL: 0.10%
+             Top: 0.09%
+          Imp Bg: 0.00%
+  * com.drweb.pro:Metrica / u0a193:
+           TOTAL: 0.09%
+             Top: 0.09%
+          Imp Fg: 0.00%
+          Imp Bg: 0.00%
+  * com.google.android.partnersetup / u0a32:
+           TOTAL: 0.09%
+         Service: 0.06%
+        Receiver: 0.03%
+        (Cached): 76% (208KB-1.0MB-3.7MB/4.0KB-2.0MB-3.6MB over 48)
+  * ru.yandex.disk:Metrica / u0a85:
+           TOTAL: 0.07%
+         Service: 0.07%
+        Receiver: 0.00%
+        (Cached): 20% (495KB-3.1MB-6.0MB/104KB-3.0MB-4.0MB over 18)
+  * com.android.deskclock / 1000:
+           TOTAL: 0.07%
+        Receiver: 0.07%
+        (Cached): 58% (101KB-1.2MB-4.0MB/4.0KB-1.7MB-3.9MB over 43)
+  * system:ui / 1000:
+           TOTAL: 0.06%
+             Top: 0.06%
+        (Cached): 2.4% (4.5MB-7.0MB-9.5MB/3.3MB-9.4MB-16MB over 2)
+  * com.android.gallery3d / u0a54:
+           TOTAL: 0.05%
+         Service: 0.02%
+        Receiver: 0.03%
+        (Cached): 64% (156KB-697KB-2.9MB/4.0KB-2.4MB-3.6MB over 32)
+  * com.android.vpndialogs / u0a65:
+           TOTAL: 0.05%
+             Top: 0.05%
+        (Cached): 2.2% (1.5MB-4.2MB-5.8MB/464KB-3.0MB-4.5MB over 3)
+  * com.google.android.syncadapters.calendar / u0a58:
+           TOTAL: 0.04%
+          Imp Bg: 0.04%
+         Service: 0.00%
+        (Cached): 3.0% (459KB-2.7MB-5.2MB/4.0KB-1.9MB-4.3MB over 3)
+  * com.google.android.youtube / u0a73:
+           TOTAL: 0.04%
+         Service: 0.00%
+        Receiver: 0.04%
+        (Cached): 0.61% (11MB-13MB-14MB/12MB-12MB-12MB over 2)
+  * com.android.chrome / u0a30:
+           TOTAL: 0.03%
+         Service: 0.00%
+        Receiver: 0.03%
+        (Cached): 31% (205KB-1.6MB-5.8MB/4.0KB-1.9MB-4.5MB over 24)
+  * com.swiftkey.swiftkeyconfigurator / u0a71:
+           TOTAL: 0.03%
+        Receiver: 0.03%
+        (Cached): 31% (216KB-508KB-1.0MB/1.8MB-1.9MB-2.2MB over 14)
+  * com.android.calendar / u0a21:
+           TOTAL: 0.03%
+          Imp Bg: 0.00%
+         Service: 0.01%
+        Receiver: 0.01%
+        (Cached): 24% (347KB-2.8MB-4.2MB/4.0KB-2.3MB-3.2MB over 17)
+  * com.android.musicfx / u0a37:
+           TOTAL: 0.03%
+         Service: 0.02%
+        Receiver: 0.01%
+        (Cached): 57% (98KB-500KB-2.6MB/8.0KB-2.7MB-3.8MB over 25)
+  * com.android.documentsui / u0a34:
+           TOTAL: 0.02%
+        Receiver: 0.02%
+        (Cached): 34% (226KB-740KB-2.0MB/4.0KB-2.1MB-2.7MB over 8)
+  * com.svox.pico / u0a46:
+           TOTAL: 0.02%
+        Receiver: 0.02%
+        (Cached): 41% (205KB-526KB-1.1MB/8.0KB-1.7MB-2.2MB over 17)
+  * com.android.mms / u0a36:
+           TOTAL: 0.01%
+         Service: 0.00%
+        Receiver: 0.01%
+        (Cached): 8.0% (788KB-2.3MB-5.1MB/236KB-2.9MB-4.2MB over 4)
+  * ru.yandex.disk:aviarycds / u0a85:
+           TOTAL: 0.01%
+          Imp Fg: 0.00%
+         Service: 0.01%
+        (Cached): 0.96% (241KB-690KB-1.1MB/4.0MB-4.1MB-4.2MB over 2)
+  * com.adups.fota / u0a52:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        (Cached): 24% (225KB-1.7MB-4.1MB/4.0KB-2.1MB-3.7MB over 14)
+  * com.google.android.googlequicksearchbox / u0a64:
+           TOTAL: 0.00%
+          Imp Bg: 0.00%
+        (Cached): 2.0% (11MB-11MB-11MB/25MB-25MB-25MB over 1)
+  * com.android.externalstorage / u0a15:
+           TOTAL: 0.00%
+        Receiver: 0.00%
+        (Cached): 39% (201KB-620KB-2.0MB/4.0KB-1.7MB-2.4MB over 12)
+  * com.android.browser / u0a16:
+           TOTAL: 0.00%
+          Imp Bg: 0.00%
+        (Cached): 2.0% (789KB-789KB-789KB/2.2MB-2.2MB-2.2MB over 1)
+  * com.android.sharedstoragebackup / u0a56:
+           TOTAL: 0.00%
+          Imp Bg: 0.00%
+        (Cached): 2.1% (1.9MB-1.9MB-1.9MB/2.0MB-2.0MB-2.0MB over 1)
+
+Run time Stats:
+  SOff/Norm: +40m17s473ms
+       Mod : +8m56s876ms
+       Low : +31s809ms
+       Crit: +1s650ms
+  SOn /Norm: +1h43m4s216ms
+       Mod : +1m47s274ms
+       Low : +23s964ms
+       Crit: +2s311ms
+      TOTAL: +2h35m5s573ms
+
+          Start time: 2016-04-12 12:31:00
+  Total elapsed time: +1d0h16m4s440ms (partial) libdvm.so chromeview
+
+AGGREGATED OVER LAST 3 HOURS:
+  * com.jrdcom.weather / u0a69:
+           TOTAL: 100% (267KB-2.9MB-3.8MB/2.0MB-3.3MB-4.1MB over 18)
+         Service: 100% (267KB-2.9MB-3.8MB/2.0MB-3.3MB-4.1MB over 18)
+  * com.touchtype.swiftkey / u0a70:
+           TOTAL: 100% (4.2MB-11MB-16MB/4.2MB-19MB-29MB over 18)
+          Imp Fg: 100% (4.2MB-11MB-16MB/4.2MB-19MB-29MB over 18)
+  * com.google.android.gms.persistent / u0a27:
+           TOTAL: 100% (1.9MB-11MB-15MB/3.0MB-13MB-16MB over 18)
+          Imp Fg: 0.03%
+          Imp Bg: 100% (1.9MB-11MB-15MB/3.0MB-13MB-16MB over 18)
+  * com.yandex.launcher / u0a159:
+           TOTAL: 100% (4.7MB-23MB-30MB/4.3MB-35MB-50MB over 22)
+             Top: 31% (29MB-29MB-30MB/28MB-45MB-50MB over 7)
+          Imp Fg: 69% (4.7MB-20MB-27MB/4.3MB-30MB-47MB over 15)
+         Service: 0.02%
+  * system / 1000:
+           TOTAL: 100% (24MB-26MB-36MB/24MB-28MB-42MB over 18)
+      Persistent: 100% (24MB-26MB-36MB/24MB-28MB-42MB over 18)
+  * com.google.process.location / u0a27:
+           TOTAL: 100% (61KB-428KB-1.1MB/4.0KB-2.6MB-6.2MB over 18)
+          Imp Fg: 100% (61KB-428KB-1.1MB/4.0KB-2.6MB-6.2MB over 18)
+  * ru.yandex.disk / u0a85:
+           TOTAL: 100% (195KB-9.6MB-15MB/4.0KB-14MB-19MB over 18)
+         Service: 100% (195KB-9.6MB-15MB/4.0KB-14MB-19MB over 18)
+  * com.android.incallui / u0a12:
+           TOTAL: 100% (44KB-1.2MB-8.7MB/4.0KB-3.4MB-8.5MB over 18)
+          Imp Bg: 100% (44KB-1.2MB-8.7MB/4.0KB-3.4MB-8.5MB over 18)
+  * com.android.inputmethod.latin / u0a2:
+           TOTAL: 100% (171KB-620KB-4.2MB/4.0KB-1.5MB-3.3MB over 18)
+         Service: 100% (171KB-620KB-4.2MB/4.0KB-1.5MB-3.3MB over 18)
+  * com.tcl.live:miniapp / u0a3:
+           TOTAL: 100% (68KB-775KB-2.2MB/4.0KB-3.0MB-6.5MB over 18)
+         Service: 100% (68KB-775KB-2.2MB/4.0KB-3.0MB-6.5MB over 18)
+  * com.android.phone / 1001:
+           TOTAL: 100% (1.6MB-4.7MB-10MB/1.5MB-5.7MB-10MB over 18)
+      Persistent: 100% (1.6MB-4.7MB-10MB/1.5MB-5.7MB-10MB over 18)
+  * com.android.systemui / u0a35:
+           TOTAL: 100% (9.2MB-12MB-15MB/8.6MB-14MB-20MB over 18)
+      Persistent: 100% (9.2MB-12MB-15MB/8.6MB-14MB-20MB over 18)
+  * android.process.acore / u0a0:
+           TOTAL: 100% (320KB-5.8MB-58MB/4.0KB-6.7MB-60MB over 17)
+          Imp Fg: 45% (2.4MB-4.2MB-6.5MB/1.8MB-4.9MB-6.4MB over 6)
+          Imp Bg: 0.10%
+         Service: 55% (320KB-6.6MB-58MB/4.0KB-7.8MB-60MB over 11)
+  * com.tcl.live / u0a3:
+           TOTAL: 100% (196KB-2.4MB-8.1MB/4.0KB-4.7MB-7.6MB over 18)
+         Service: 100% (196KB-2.4MB-8.1MB/4.0KB-4.7MB-7.6MB over 18)
+  * com.google.process.gapps / u0a27:
+           TOTAL: 100% (591KB-7.2MB-9.2MB/2.9MB-10MB-12MB over 21)
+          Imp Fg: 0.11%
+          Imp Bg: 1.1% (8.2MB-8.2MB-8.2MB/7.3MB-7.3MB-7.3MB over 1)
+         Service: 99% (591KB-7.2MB-9.2MB/2.9MB-10MB-12MB over 20)
+  * android.process.media / u0a13:
+           TOTAL: 100% (547KB-2.1MB-3.7MB/828KB-2.2MB-4.2MB over 13)
+          Imp Bg: 0.02%
+         Service: 100% (547KB-2.1MB-3.7MB/828KB-2.2MB-4.2MB over 13)
+  * com.drweb.pro.market / u0a194:
+           TOTAL: 69% (4.2MB-8.1MB-12MB/3.8MB-14MB-33MB over 18)
+             Top: 23% (4.6MB-9.0MB-12MB/3.8MB-11MB-14MB over 10)
+          Imp Fg: 46% (4.2MB-7.0MB-10MB/4.7MB-19MB-33MB over 8)
+  * com.drweb.pro.market:Metrica / u0a194:
+           TOTAL: 69% (187KB-492KB-0.96MB/4.0KB-3.0MB-5.3MB over 18)
+             Top: 23% (212KB-374KB-0.96MB/4.0KB-2.4MB-4.8MB over 10)
+          Imp Fg: 46% (187KB-643KB-0.95MB/8.0KB-3.8MB-5.3MB over 8)
+  * com.drweb.pro.market:monitor / u0a194:
+           TOTAL: 69% (129KB-1.1MB-2.4MB/4.0KB-4.1MB-6.4MB over 18)
+             Top: 23% (547KB-1.7MB-2.4MB/320KB-3.7MB-6.0MB over 10)
+          Imp Fg: 46% (129KB-280KB-535KB/4.0KB-4.5MB-6.4MB over 8)
+         Service: 0.04%
+  * com.android.dialer / u0a12:
+           TOTAL: 45% (761KB-5.6MB-10MB/272KB-9.5MB-11MB over 13)
+             Top: 45% (761KB-5.6MB-10MB/272KB-9.5MB-11MB over 13)
+          Imp Bg: 0.09%
+      (Last Act): 0.33%
+        (Cached): 32% (423KB-815KB-1.2MB/116KB-5.4MB-11MB over 2)
+  * com.yandex.launcher:Metrica / u0a159:
+           TOTAL: 32% (4.7MB-4.9MB-5.1MB/3.9MB-4.9MB-5.5MB over 7)
+             Top: 31% (4.7MB-4.9MB-5.1MB/3.9MB-4.9MB-5.5MB over 7)
+          Imp Fg: 1.4%
+         Service: 0.02%
+        (Cached): 36% (598KB-647KB-766KB/244KB-3.3MB-4.3MB over 4)
+  * com.whatsapp / u0a76:
+           TOTAL: 8.7% (2.8MB-7.3MB-15MB/2.3MB-6.5MB-13MB over 10)
+         Service: 8.7% (2.8MB-7.3MB-15MB/2.3MB-6.5MB-13MB over 10)
+        Receiver: 0.06%
+        (Cached): 57% (1.9MB-5.7MB-9.0MB/7.1MB-7.3MB-7.6MB over 10)
+  * com.google.android.gms / u0a27:
+           TOTAL: 3.9% (8.8MB-9.3MB-9.8MB/7.6MB-8.2MB-8.7MB over 2)
+             Top: 0.01%
+          Imp Fg: 0.03%
+          Imp Bg: 1.3% (8.8MB-9.3MB-9.8MB/7.6MB-8.2MB-8.7MB over 2)
+         Service: 2.3%
+      Service Rs: 0.01%
+        Receiver: 0.22%
+        (Cached): 96% (1.5MB-8.7MB-28MB/5.1MB-9.5MB-27MB over 19)
+  * com.android.vending / u0a50:
+           TOTAL: 3.8% (13MB-13MB-13MB/9.9MB-10.0MB-10MB over 2)
+         Service: 3.7% (13MB-13MB-13MB/9.9MB-10.0MB-10MB over 2)
+      Service Rs: 0.06%
+        Receiver: 0.05%
+        (Cached): 39% (1.1MB-7.9MB-19MB/2.5MB-7.5MB-17MB over 5)
+  * com.facebook.katana / u0a77:
+           TOTAL: 2.8%
+             Top: 0.07%
+          Imp Fg: 0.06%
+         Service: 2.2%
+        Receiver: 0.51%
+        (Cached): 45% (9.4MB-24MB-40MB/7.4MB-30MB-43MB over 4)
+  * com.google.android.gms:snet / u0a27:
+           TOTAL: 2.5% (14MB-14MB-14MB/12MB-12MB-12MB over 1)
+         Service: 2.5% (14MB-14MB-14MB/12MB-12MB-12MB over 1)
+      Service Rs: 0.01%
+        (Cached): 38% (671KB-1.1MB-2.3MB/420KB-4.3MB-6.0MB over 4)
+  * com.android.settings / 1000:
+           TOTAL: 1.3% (1.4MB-3.9MB-6.4MB/4.7MB-5.2MB-5.6MB over 2)
+             Top: 1.2% (1.4MB-3.9MB-6.4MB/4.7MB-5.2MB-5.6MB over 2)
+        Receiver: 0.04%
+      (Last Act): 30% (362KB-4.3MB-6.3MB/5.0MB-5.2MB-5.5MB over 3)
+        (Cached): 0.15%
+  * com.google.android.apps.plus / u0a60:
+           TOTAL: 1.1%
+          Imp Bg: 0.99%
+         Service: 0.09%
+        Receiver: 0.06%
+        (Cached): 80% (574KB-9.5MB-23MB/1.7MB-13MB-21MB over 19)
+  * com.google.android.talk / u0a67:
+           TOTAL: 0.99%
+         Service: 0.77%
+        Receiver: 0.23%
+        (Cached): 49% (2.0MB-14MB-23MB/0.97MB-13MB-22MB over 5)
+  * com.google.android.googlequicksearchbox:search / u0a64:
+           TOTAL: 0.80%
+         Service: 0.75%
+      Service Rs: 0.01%
+        Receiver: 0.04%
+        (Cached): 32% (0.96MB-8.7MB-26MB/212KB-15MB-25MB over 9)
+  * com.android.packageinstaller / u0a43:
+           TOTAL: 0.41%
+             Top: 0.32%
+          Imp Fg: 0.09%
+        (Cached): 0.57%
+  * com.adups.fota.sysoper / 1000:
+           TOTAL: 0.24% (6.6MB-6.6MB-6.6MB/5.0MB-5.0MB-5.0MB over 1)
+         Service: 0.17% (6.6MB-6.6MB-6.6MB/5.0MB-5.0MB-5.0MB over 1)
+        Receiver: 0.07%
+  * com.android.keychain / 1000:
+           TOTAL: 0.24%
+         Service: 0.02%
+        Receiver: 0.22%
+        (Cached): 0.57%
+  * ru.yandex.disk:aviary_cds / u0a85:
+           TOTAL: 0.20%
+         Service: 0.10%
+        Receiver: 0.10%
+        (Cached): 65% (230KB-2.1MB-4.6MB/4.0KB-2.2MB-4.6MB over 13)
+  * ru.yandex.disk:Metrica / u0a85:
+           TOTAL: 0.18%
+         Service: 0.17%
+        Receiver: 0.00%
+        (Cached): 28% (2.6MB-3.8MB-6.0MB/2.0MB-2.6MB-3.7MB over 9)
+  * com.facebook.katana:dash / u0a77:
+           TOTAL: 0.15%
+        Receiver: 0.15%
+        (Cached): 29% (3.8MB-12MB-19MB/2.4MB-11MB-20MB over 2)
+  * com.google.android.apps.docs / u0a38:
+           TOTAL: 0.15%
+         Service: 0.04%
+        Receiver: 0.11%
+        (Cached): 29% (665KB-3.4MB-6.2MB/52KB-5.1MB-10MB over 2)
+  * com.yandex.browser / u0a118:
+           TOTAL: 0.14%
+         Service: 0.03%
+        Receiver: 0.11%
+        (Cached): 85% (743KB-2.6MB-6.2MB/400KB-3.5MB-7.1MB over 11)
+  * com.yandex.browser.beta / u0a105:
+           TOTAL: 0.14%
+         Service: 0.03%
+        Receiver: 0.11%
+        (Cached): 83% (706KB-4.0MB-9.2MB/412KB-4.2MB-7.2MB over 11)
+  * com.google.android.music:main / u0a39:
+           TOTAL: 0.12%
+         Service: 0.05%
+        Receiver: 0.06%
+        (Cached): 7.7% (6.7MB-9.5MB-16MB/5.6MB-9.4MB-15MB over 4)
+  * com.estrongs.android.pop / u0a131:
+           TOTAL: 0.10%
+             Top: 0.06%
+        Receiver: 0.04%
+        (Cached): 100% (336KB-4.6MB-21MB/96KB-15MB-30MB over 17)
+  * com.android.launcher3 / u0a7:
+           TOTAL: 0.08%
+        Receiver: 0.08%
+        (Cached): 0.40%
+  * com.yandex.browser:Metrica / u0a118:
+           TOTAL: 0.08%
+         Service: 0.08%
+        Receiver: 0.00%
+        (Cached): 26% (0.00-1.6MB-3.5MB/0.00-2.6MB-5.9MB over 3)
+  * com.android.mms / u0a36:
+           TOTAL: 0.07%
+         Service: 0.02%
+        Receiver: 0.05%
+        (Cached): 36% (788KB-2.3MB-5.1MB/236KB-2.9MB-4.2MB over 4)
+  * com.android.deskclock / 1000:
+           TOTAL: 0.06%
+        Receiver: 0.06%
+        (Cached): 74% (101KB-1.00MB-2.9MB/632KB-2.0MB-3.9MB over 16)
+  * com.yandex.browser.beta:Metrica / u0a105:
+           TOTAL: 0.06%
+         Service: 0.06%
+        (Cached): 85% (562KB-2.3MB-6.4MB/308KB-2.8MB-5.9MB over 12)
+  * com.tcl.gc / u0a19:
+           TOTAL: 0.06%
+        Receiver: 0.06%
+        (Cached): 7.9% (12MB-15MB-16MB/11MB-14MB-15MB over 4)
+  * com.android.chrome / u0a30:
+           TOTAL: 0.04%
+         Service: 0.00%
+        Receiver: 0.04%
+        (Cached): 65% (205KB-1.6MB-5.8MB/4.0KB-1.8MB-4.5MB over 14)
+  * com.google.android.apps.magazines / u0a18:
+           TOTAL: 0.03%
+        Receiver: 0.03%
+        (Cached): 55% (274KB-2.7MB-8.1MB/4.0KB-2.8MB-6.7MB over 10)
+  * ru.yandex.disk:aviarycds / u0a85:
+           TOTAL: 0.02%
+          Imp Fg: 0.01%
+         Service: 0.02%
+        (Cached): 1.5% (241KB-241KB-241KB/4.0MB-4.0MB-4.0MB over 1)
+  * com.google.android.partnersetup / u0a32:
+           TOTAL: 0.02%
+         Service: 0.02%
+        (Cached): 89% (212KB-1.6MB-3.7MB/4.0KB-2.4MB-3.6MB over 12)
+  * com.android.documentsui / u0a34:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        (Cached): 29% (439KB-598KB-758KB/4.0KB-1.1MB-2.3MB over 2)
+  * com.adups.fota / u0a52:
+           TOTAL: 0.01%
+        Receiver: 0.01%
+        (Cached): 55% (225KB-1.7MB-4.1MB/4.0KB-1.8MB-3.7MB over 10)
+  * com.android.gallery3d / u0a54:
+           TOTAL: 0.01%
+         Service: 0.00%
+        Receiver: 0.01%
+        (Cached): 0.07%
+  * com.android.musicfx / u0a37:
+           TOTAL: 0.01%
+         Service: 0.00%
+        Receiver: 0.00%
+        (Cached): 23% (334KB-334KB-334KB/3.1MB-3.1MB-3.1MB over 1)
+  * com.swiftkey.swiftkeyconfigurator / u0a71:
+           TOTAL: 0.00%
+        Receiver: 0.00%
+        (Cached): 23% (456KB-456KB-456KB/1.9MB-1.9MB-1.9MB over 1)
+  * com.android.providers.calendar / u0a5:
+        (Cached): 4.4% (3.7MB-3.7MB-3.7MB/2.4MB-2.4MB-2.4MB over 1)
+  * com.android.externalstorage / u0a15:
+        (Cached): 29% (405KB-546KB-687KB/4.0KB-0.95MB-1.9MB over 2)
+  * com.android.defcontainer / u0a10:
+        (Cached): 4.3% (393KB-393KB-393KB/292KB-292KB-292KB over 1)
+  * com.android.calendar / u0a21:
+        (Cached): 4.4% (3.5MB-3.5MB-3.5MB/2.4MB-2.4MB-2.4MB over 1)
+
+Run time Stats:
+  SOff/Norm: +10m5s618ms
+       Mod : +2m45s521ms
+       Low : +7s569ms
+       Crit: +82ms
+  SOn /Norm: +20m52s285ms
+       Mod : +32s74ms
+       Low : +4s678ms
+      TOTAL: +34m27s827ms
+
+          Start time: 2016-04-13 03:26:19
+  Total elapsed time: +9h20m45s791ms (partial) libdvm.so chromeview
+
+CURRENT STATS:
+  * com.yandex.launcher:Metrica / u0a159:
+           TOTAL: 100% (4.8MB-4.9MB-5.0MB/3.9MB-4.5MB-5.0MB over 4)
+             Top: 96% (4.8MB-4.9MB-5.0MB/3.9MB-4.5MB-5.0MB over 4)
+          Imp Fg: 3.8%
+         Service: 0.04%
+  * com.android.inputmethod.latin / u0a2:
+           TOTAL: 100% (171KB-171KB-171KB/4.0KB-4.0KB-4.0KB over 1)
+         Service: 100% (171KB-171KB-171KB/4.0KB-4.0KB-4.0KB over 1)
+  * com.jrdcom.weather / u0a69:
+           TOTAL: 100% (3.4MB-3.4MB-3.4MB/2.8MB-2.8MB-2.8MB over 1)
+         Service: 100% (3.4MB-3.4MB-3.4MB/2.8MB-2.8MB-2.8MB over 1)
+  * com.tcl.live / u0a3:
+           TOTAL: 100% (196KB-196KB-196KB/4.0KB-4.0KB-4.0KB over 1)
+         Service: 100% (196KB-196KB-196KB/4.0KB-4.0KB-4.0KB over 1)
+  * com.google.android.gms.persistent / u0a27:
+           TOTAL: 100% (12MB-12MB-12MB/11MB-11MB-11MB over 1)
+          Imp Bg: 100% (12MB-12MB-12MB/11MB-11MB-11MB over 1)
+  * com.tcl.live:miniapp / u0a3:
+           TOTAL: 100% (68KB-68KB-68KB/4.0KB-4.0KB-4.0KB over 1)
+         Service: 100% (68KB-68KB-68KB/4.0KB-4.0KB-4.0KB over 1)
+  * com.touchtype.swiftkey / u0a70:
+           TOTAL: 100% (7.2MB-7.2MB-7.2MB/6.7MB-6.7MB-6.7MB over 1)
+          Imp Fg: 100% (7.2MB-7.2MB-7.2MB/6.7MB-6.7MB-6.7MB over 1)
+  * com.android.incallui / u0a12:
+           TOTAL: 100% (199KB-199KB-199KB/4.0KB-4.0KB-4.0KB over 1)
+          Imp Bg: 100% (199KB-199KB-199KB/4.0KB-4.0KB-4.0KB over 1)
+  * ru.yandex.disk / u0a85:
+           TOTAL: 100% (195KB-195KB-195KB/4.0KB-4.0KB-4.0KB over 1)
+         Service: 100% (195KB-195KB-195KB/4.0KB-4.0KB-4.0KB over 1)
+  * com.google.process.location / u0a27:
+           TOTAL: 100% (61KB-61KB-61KB/4.0KB-4.0KB-4.0KB over 1)
+          Imp Fg: 100% (61KB-61KB-61KB/4.0KB-4.0KB-4.0KB over 1)
+  * com.android.systemui / u0a35:
+           TOTAL: 100% (12MB-12MB-12MB/11MB-11MB-11MB over 1)
+      Persistent: 100% (12MB-12MB-12MB/11MB-11MB-11MB over 1)
+  * com.google.process.gapps / u0a27:
+           TOTAL: 100% (3.2MB-3.2MB-3.2MB/2.9MB-2.9MB-2.9MB over 1)
+         Service: 100% (3.2MB-3.2MB-3.2MB/2.9MB-2.9MB-2.9MB over 1)
+  * com.android.phone / 1001:
+           TOTAL: 100% (7.9MB-7.9MB-7.9MB/7.4MB-7.4MB-7.4MB over 1)
+      Persistent: 100% (7.9MB-7.9MB-7.9MB/7.4MB-7.4MB-7.4MB over 1)
+  * system / 1000:
+           TOTAL: 100% (27MB-27MB-27MB/26MB-26MB-26MB over 1)
+      Persistent: 100% (27MB-27MB-27MB/26MB-26MB-26MB over 1)
+  * com.yandex.launcher / u0a159:
+           TOTAL: 100% (29MB-29MB-30MB/28MB-43MB-48MB over 4)
+             Top: 96% (29MB-29MB-30MB/28MB-43MB-48MB over 4)
+          Imp Fg: 3.8%
+         Service: 0.04%
+  * android.process.media / u0a13:
+           TOTAL: 100% (2.1MB-2.1MB-2.1MB/1.7MB-1.7MB-1.7MB over 1)
+         Service: 100% (2.1MB-2.1MB-2.1MB/1.7MB-1.7MB-1.7MB over 1)
+  * android.process.acore / u0a0:
+           TOTAL: 100% (320KB-320KB-320KB/4.0KB-4.0KB-4.0KB over 1)
+         Service: 100% (320KB-320KB-320KB/4.0KB-4.0KB-4.0KB over 1)
+  * com.android.settings / 1000:
+           TOTAL: 4.6% (6.4MB-6.4MB-6.4MB/5.6MB-5.6MB-5.6MB over 1)
+             Top: 4.5% (6.4MB-6.4MB-6.4MB/5.6MB-5.6MB-5.6MB over 1)
+        Receiver: 0.12%
+      (Last Act): 94% (6.3MB-6.3MB-6.3MB/5.1MB-5.3MB-5.5MB over 2)
+        (Cached): 1.3%
+  * com.google.android.talk / u0a67:
+           TOTAL: 0.43%
+         Service: 0.10%
+        Receiver: 0.32%
+        (Cached): 50% (23MB-23MB-23MB/21MB-22MB-22MB over 2)
+  * com.google.android.gms / u0a27:
+           TOTAL: 0.40%
+         Service: 0.27%
+        Receiver: 0.13%
+        (Cached): 100% (6.0MB-6.2MB-6.4MB/5.3MB-9.6MB-14MB over 2)
+  * ru.yandex.disk:aviary_cds / u0a85:
+           TOTAL: 0.23%
+         Service: 0.01%
+        Receiver: 0.22%
+        (Cached): 65% (3.8MB-4.2MB-4.6MB/1.2MB-2.4MB-3.6MB over 2)
+  * com.adups.fota.sysoper / 1000:
+           TOTAL: 0.23%
+         Service: 0.09%
+        Receiver: 0.14%
+  * com.facebook.katana / u0a77:
+           TOTAL: 0.19%
+         Service: 0.13%
+        Receiver: 0.06%
+        (Cached): 100% (9.4MB-10MB-11MB/7.4MB-20MB-32MB over 2)
+  * com.google.android.apps.plus / u0a60:
+           TOTAL: 0.16%
+         Service: 0.09%
+        Receiver: 0.07%
+        (Cached): 100% (2.1MB-2.5MB-2.9MB/1.7MB-7.3MB-13MB over 2)
+  * ru.yandex.disk:Metrica / u0a85:
+           TOTAL: 0.15%
+         Service: 0.14%
+        Receiver: 0.00%
+        (Cached): 65% (6.0MB-6.0MB-6.0MB/3.4MB-3.5MB-3.6MB over 2)
+  * com.android.chrome / u0a30:
+           TOTAL: 0.12%
+        Receiver: 0.12%
+        (Cached): 65% (1.2MB-1.3MB-1.4MB/356KB-1.4MB-2.5MB over 2)
+  * com.estrongs.android.pop / u0a131:
+           TOTAL: 0.07%
+        Receiver: 0.07%
+        (Cached): 100% (2.9MB-2.9MB-2.9MB/2.4MB-2.4MB-2.4MB over 1)
+  * com.android.deskclock / 1000:
+           TOTAL: 0.06%
+        Receiver: 0.06%
+        (Cached): 50% (2.9MB-2.9MB-2.9MB/1.9MB-2.1MB-2.2MB over 2)
+  * com.yandex.browser.beta:Metrica / u0a105:
+        (Cached): 100% (752KB-752KB-752KB/308KB-308KB-308KB over 1)
+  * com.yandex.browser.beta / u0a105:
+        (Cached): 100% (0.96MB-0.96MB-0.96MB/412KB-412KB-412KB over 1)
+  * com.android.musicfx / u0a37:
+        (Cached): 35%
+  * com.android.dialer / u0a12:
+        (Cached): 100% (423KB-423KB-423KB/116KB-116KB-116KB over 1)
+  * com.google.android.apps.docs / u0a38:
+        (Cached): 100% (665KB-665KB-665KB/52KB-52KB-52KB over 1)
+  * com.yandex.browser:Metrica / u0a118:
+        (Cached): 50%
+  * com.facebook.katana:dash / u0a77:
+        (Cached): 100% (3.8MB-3.8MB-3.8MB/2.4MB-2.4MB-2.4MB over 1)
+  * com.google.android.partnersetup / u0a32:
+        (Cached): 35%
+  * com.android.externalstorage / u0a15:
+        (Cached): 100% (405KB-405KB-405KB/4.0KB-4.0KB-4.0KB over 1)
+  * com.android.vending / u0a50:
+        (Cached): 100% (3.4MB-3.4MB-3.4MB/2.6MB-2.6MB-2.6MB over 1)
+  * com.swiftkey.swiftkeyconfigurator / u0a71:
+        (Cached): 35%
+  * com.yandex.browser / u0a118:
+        (Cached): 100% (0.95MB-0.95MB-0.95MB/400KB-400KB-400KB over 1)
+  * com.android.documentsui / u0a34:
+        (Cached): 100% (439KB-439KB-439KB/4.0KB-4.0KB-4.0KB over 1)
+
+Run time Stats:
+  SOn /Norm: +4m4s704ms (running)
+      TOTAL: +4m4s704ms
+
+          Start time: 2016-04-13 12:43:00
+  Total elapsed time: +4m5s830ms (partial) libdvm.so chromeview
